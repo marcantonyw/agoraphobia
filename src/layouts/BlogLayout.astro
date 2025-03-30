@@ -1,0 +1,108 @@
+---
+const { toc } = Astro.props;
+import StickyToc from '../components/StickyToc.astro';
+---
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Agoraphobia Recovery</title>
+    <style>
+      /* Base font setup */
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+      body {
+        margin: 0;
+        display: flex;
+        font-family: 'Inter', sans-serif;
+        background-color: #fff;
+        color: #333; /* main text color */
+      }
+
+      /* Sidebar (TOC) */
+      aside {
+        width: 240px;               /* tweak as needed */
+        border-right: 1px solid #eee;
+        padding: 2rem;
+        position: sticky;
+        top: 2rem;                  /* leave some space at the top */
+        height: calc(100vh - 4rem); /* so it doesn't overflow the viewport */
+        overflow-y: auto;
+      }
+      aside nav h2 {
+        font-size: 0.9rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-bottom: 1.5rem;
+        color: #777; /* subtle heading color */
+      }
+      aside nav ul {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+      }
+      aside nav ul li {
+        margin-bottom: 1rem;
+      }
+      aside nav ul li a {
+        color: #333;
+        text-decoration: none;
+        font-size: 0.95rem;
+        transition: color 0.2s;
+      }
+      aside nav ul li a:hover {
+        color: #000;
+      }
+
+      /* Main content area */
+      main {
+        max-width: 720px;  /* comfortable reading width */
+        margin: 0 auto;
+        padding: 2rem;
+      }
+      main h1, main h2, main h3, main h4, main h5, main h6 {
+        color: #111;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        line-height: 1.3;
+      }
+      main p {
+        margin-bottom: 1.5rem;
+        line-height: 1.6;
+      }
+      main a {
+        color: #0077cc;
+        text-decoration: none;
+      }
+      main a:hover {
+        text-decoration: underline;
+      }
+      /* Subtle horizontal rules, blockquotes, lists, etc. */
+      main hr {
+        border: none;
+        border-top: 1px solid #eee;
+        margin: 2rem 0;
+      }
+      main blockquote {
+        margin: 1.5rem 0;
+        padding-left: 1rem;
+        border-left: 3px solid #ddd;
+        color: #555;
+      }
+      main ul, main ol {
+        margin-bottom: 1.5rem;
+        padding-left: 1.5rem;
+      }
+    </style>
+  </head>
+  <body>
+    <aside>
+      <nav id="toc">
+        <h2>Contents</h2>
+        <StickyToc headings={toc} />
+      </nav>
+    </aside>
+    <main>
+      <slot />
+    </main>
+  </body>
+</html>
