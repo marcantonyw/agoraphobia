@@ -3,13 +3,19 @@ import BlogLayout from '../layouts/BlogLayout.astro';
 import Article from '../content/agoraphobia.md';
 
 const tocHeadings = [
-  { id: 'introduction', text: 'Introduction' },
-  { id: 'what-agoraphobia-is', text: 'What Agoraphobia Is' },
-  { id: 'remove-the-shame', text: 'Remove the Shame' },
-  { id: 'logical-understanding', text: 'Logical Understanding' },
+  { id: 'prologue', text: 'Overview' },
+  { id: 'why-you', text: 'Why Should I Listen To You?' }
+
 ];
 ---
 
 <BlogLayout toc={tocHeadings}>
   <Article />
 </BlogLayout>
+
+<aside>
+
+  <nav id="toc">
+    <!-- Only links go here -->
+  </nav>
+</aside>

@@ -1,12 +1,48 @@
 ---
 const { headings } = Astro.props;
 ---
-<ul style="list-style: none; padding: 0; margin: 0;">
-  {headings.map(heading => (
-    <li style="margin-bottom: 0.5rem;">
-      <a href={`#${heading.id}`} style="color: inherit; text-decoration: none;">
-        {heading.text}
-      </a>
+
+<ul>
+  {headings.map((heading) => (
+    <li>
+      <a href={`#${heading.slug}`}>{heading.text}</a>
+      {heading.children && heading.children.length > 0 && (
+        <ul>
+          {heading.children.map((child) => (
+            <li>
+              <a href={`#${child.slug}`}>{child.text}</a>
+            </li>
+          ))}
+        </ul>
+      )}
     </li>
   ))}
 </ul>
+
+<style>
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+    text-decoration-color: forestgreen;
+  }
+
+  /* Indent nested items */
+  ul ul {
+    padding-left: 1rem;
+    margin-top: 0.5rem;
+  }
+</style>
