@@ -3,8 +3,6 @@ import BlogLayout from '../layouts/BlogLayout.astro';
 import Article from '../content/agoraphobia.md';
 
 const tocHeadings = [
-  { id: 'prologue', text: 'Overview' },
-  { id: 'why-you', text: 'Why Should I Listen To You?' }
 
 ];
 ---
@@ -12,10 +10,3 @@ const tocHeadings = [
 <BlogLayout toc={tocHeadings}>
   <Article />
 </BlogLayout>
-
-<aside>
-
-  <nav id="toc">
-    <!-- Only links go here -->
-  </nav>
-</aside>

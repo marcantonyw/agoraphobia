@@ -232,17 +232,65 @@ That’s how you bring your rational understanding of safety *into* a moment of 
 
 Panic does come and go in waves, but the fear of the next wave coming can keep you in panic mode. It's like a chinese finger trap. Pull out as hard as you can, you won't get out. Push in, and the grip loosens, allowing you to easily slide your finger out. 
 
-It's time to go have a panic attack. On purpose. 
-
 Story time: 
-I tried to follow this approach for years and thought I was doing it right. I saw progress, I was doing more shit, but it was still kind of a nightmare. Stomach all fucked up, irritable, was completely wiped out for the rest of the day. Normal didn't seem like an actual outcome that would work. 
+I tried to follow this approach for years and thought I was doing it right. I saw progress, I was doing more shit, but it was still kind of a nightmare. Stomach all fucked up, irritable, was completely wiped out for the rest of the day. 
 
-My first glimpse into what acceptance really feels like happened on accident. 
+My first glimpse into real acceptance happened on accident. 
 
-My girlfriend at the time dumped me, the anxiety was probably the main reason it wasn't working. I was devastated, to put it lightly.  I booked a flight to visit a friend, both to get my mind off the break up and to confront the anxiety.  
+My girlfriend at the time dumped me, the anxiety was probably the main reason it wasn't working. I was wrecked.  I booked a flight both to get my mind off the break up and to confront the anxiety.  
 
-The trip went ok, but after take off on the flight back, I got hit with a level 10 mega panic attack. I couldn't catch my breath, spinning, dryheaving. There was crazy turbulence, I got this cracking sensation in my chest. After the crack, an ice cold liquid felt like it was spreading throughout my body. I was sure it was internal bleeding and I was about to die. I was still so depressed, I didn't really care. 
+After take off I got hit with a level 10 mega panic attack. I couldn't catch my breath, spinning, dryheaving. There was crazy turbulence, I got this cracking sensation in my chest. After the crack, an ice cold liquid felt like it was spreading throughout my body. I was sure it was internal bleeding and I was about to die. I was still so depressed, I didn't really care. 
 
 Not to say I lost my will to live or was suicidal or anything like that - but I thought fuck it, guess this is it. Oh well. 
 
-The cold liquid turned warm
+The cold liquid turned warm. The panic washed away and was replaced by a sense of relief so strong it was almost euphoric. It was like I popped a molly or something. I was giddy, giggling like a fucking psycho next to strangers. 
+
+When I returned to baseline, I thought "*ooooohhhhhhhhh woooooooaaaah that's what acceptance is.*" 
+
+What I had been doing before was white knuckling and seeking comfort. 
+
+**Acceptance** has to be experienced to be understood. You have to kinda get a feel for it, but then you can't unsee it. 
+
+
+> **Ok, good for you. I've tried to accept the feelings, they don't just go away like that. My panic attacks are different. They're completely overwhelming, and sometimes can be traumatizing. I'm worried that I'll get on a plane or something and have a panic attack so bad that I have a major setback and get even more scared of going outside.** 
+
+
+We're back to the illusion of danger. Except now it's not about the physical symptoms, it's about losing your mind. It's still the same exact process. Hate to break it to you, this is still run-of-the-mill panic attacks. Which means the answer is still accept and allow. We can play whack-a-mole with every symptom and every delusion you want. 
+
+Panic attacks are not dangerous physically, or psychologically. Let's talk about the word "traumatizing" though, because you do have a point. 
+
+Trauma is a big word that's been thrown around a lot. But all trauma means is an experience so distressing that it leads to lasting changes in our thoughts, emotions, and/or behavior. 
+
+The first major panic attack in the start of panic disorder probably qualifies as a traumatic event by definition. 
+
+Neuroplasticity is another big word thrown around, all it means is that your brain adapts. Adaptations aren't necessarily good or bad, they're just a change. 
+
+The more emotionally significant(traumatic) a situation is, the less repetitions it takes to lead to lasting change. The higher the stakes (real or perceived), the more adaption takes place. 
+
+So, when you're in a panic attack, the behavior that follows is very strongly imprinted and becomes  a lasting change. Whether that behavior is avoidance or acceptance, it'll leave a mark.
+
+This is why exposure is so effective, and all non-exposure exercises are not. Well, not on their own at least. 
+
+A setback comes from avoidance during high stakes. Growth comes from going through it. Eveything you do is habit forming. You vote for the person you'll be and the behaviors you instill with every single thing you do. This is partially why cross-culturally, religions have the idea that "God is always watching and judging, then rewarding or punishing". Divorce that concept from the control and political games many religious insitutions push, and think about it symbolically. 
+
+Your behavior matters, it's one link in an infinite chain of events. Things beget more of the same. 
+
+Ok back to pragmatic, rational land:
+
+The traumatic power of a panic attack is just because it's fertile ground for neuroplasticity.  Run away, you'll want to run more. Face it, you'll be able to face it more. 
+
+A setback is not set in stone, you can undo it with one successful bout of exposure. 
+
+So look at the "traumatizing" nature of your panic attacks as an opportunity to quickly make lasting change. 
+
+
+> **"But I can't handle all the feelings. I will run away if it gets bad enough. So I'm right in thinking that it could be harmful for me to be in a situation I'm not ready for. How am I supposed to act like this is harmless if backing out during a panic attack is harmful?"**
+
+
+This is the reason gradual exposure tends to be more effective than flooding. 
+
+Gradual exposure works by starting low and working your way up  in manageable steps. Flooding is goin fuck it yolo and chucking yourself into a situation you're genuinely not ready for. 
+
+If you haven't left your house in months, don't get on an international flight. You could spaz out and think "I WILL NEVER GO OUTSIDE AGAIN FUUUUCCCKKK THIS". 
+
+Gradual exposure helps you build up the confidence. 
