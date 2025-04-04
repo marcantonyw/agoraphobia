@@ -469,5 +469,50 @@ I stick pretty closely to this unless life gets in the way. Which is totally fin
 # Ok, stop reading this. Go enjoy your week, check back in next Sunday. 
 
 
+### **Sunday retrospective**
+
+How'd it go?  What was easier than you thought? What felt hard? What did you stick to? What didn't you stick to? Why? 
+
+It takes a while to change habits, so it might take a few weeks to find your rhythm. It might be useful to just stay here for a bit and do some self-discovery. I mean, you've probably spent so long worrying about how to recover from agoraphobia, you forgot how to have a nice day. Treat yourself well.
+
+In the next section, we'll go over integrating exposures with the calendar. But we're setting ourselves up for wins right now - this is still the foundation. I think it would be great to get to a point where a pretty full week feels like a habit before starting the next step.  Use your judgment, but here are my recommendations:
+
+Move to the next phase if you: 
+
+ - Were able to fill a good chunk of your day 
+ - Mostly stuck to the plan
+ - Were mentally engaged in the activities
+ - Feel motivated to continue
+ - Would say you had a nice week 
+
+Stay here for the next week if you:
+ - Couldn't think of things to do 
+ - Didn't stick to the plan much 
+ - Were uncomfortable during the planned activities 
+ - Don't want to do this again. 
+
+## Next step: Expand. 
+
+Now we're gonna start working towards the goal lifestyle we established in the first week of this exercise. Later we will get to anxiety-based exposure ladders, but we're gonna try to treat agoraphobia recovery as values-based lifestyle design as much as we can. 
 
 
+We now have a lot of important information: How you'd like to spend your time in a perfect world across different life dimensions if anxiety weren't an issue,  what you're willing to do right now, and what you're currently comfortable doing. Brainstorm a bunch of activities you'd like to do under each dimension. 
+
+Example: 
+
+#### **Social**
+Dinner with a friend
+Group hike
+Hit the bars 
+Go to a concert
+Weekend camping trip 
+Host a Sunday family dinner 
+Picnic day in the park 
+Museum visit 
+Get lunch downtown 
+
+
+
+Which of those are you completely comfortable doing, which are you a little uncomfortable with but willing to and which are you not willing to do at all? Put them in order from most to least comfortable. Hopefully last week you already did some of the activities at the bottom of the list. 
+
+This is where we start the progression - every week, work your way up the list. Take your time, it's ok to do the same thing for a few weeks. But eventually, you'll get bored of it and wanna move up the list. 
