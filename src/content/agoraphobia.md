@@ -41,7 +41,7 @@ Test it. See what the feelings can actually do if you don't avoid them. Puking i
 
 Good question.
 
-First of all, I never used the word **easy**, I said simple. You're trying to override the the impulse that evolved to keep you safe by any means necessary. Ignoring that might be the most counter-intuitive thing a person can do. What you're feeling when you go outside is the same thing people feel with a gun to their head. What I'm telling you to do is simple, possible, and effective. But definitely not easy. 
+First of all, I never used the word **easy**, I said simple. You're trying to override the the impulse that evolved to keep you safe by any means necessary. Ignoring that might be the most counter-intuitive thing a person can do. What you're feeling when you go outside could be the same thing people feel with a gun to their head. What I'm telling you to do is simple, possible, and effective. But definitely not easy. 
 
 This isn't about me, but my credibility is in my experience, so I'll do a quick overview of my history with all this. 
 
@@ -516,3 +516,243 @@ Get lunch downtown
 Which of those are you completely comfortable doing, which are you a little uncomfortable with but willing to and which are you not willing to do at all? Put them in order from most to least comfortable. Hopefully last week you already did some of the activities at the bottom of the list. 
 
 This is where we start the progression - every week, work your way up the list. Take your time, it's ok to do the same thing for a few weeks. But eventually, you'll get bored of it and wanna move up the list. 
+
+
+> ***"I'm stuck. When I try to move up the list at all, I panic and go home. I made it through a few times but I hated it. I don't wanna keep reverting back to the bottom of the list, but this isn't working.  "***
+
+This is perfectly ok and expected. Don't worry, this is exactly where we want to get to. 
+
+What actually happened? What was the final straw that made you turn back? What made the experience suck? 
+
+Refer back to the top of this write up - was it: The illusion of danger or the intolerance of discomfort? Did any safety/avoidance behaviors creep up? How did you respond when the feelings started? Did you accept & allow or white knuckle and distract? 
+
+
+You've already made a shit ton of progress even if it doesn't feel like it. 
+
+ - You've committed to values based actions
+ - You've filled your week in a balanced way 
+ - You've asserted your willpower over your habits 
+ - You've started taking better care of yourself
+ - You've reminded yourself what you want your life to look like 
+ - You've created a vision and a path to get there. 
+
+You decided to do something about it - the important part is done. You've set yourself up to win, we just need to troubleshoot the issues as they pop up and keep showing up. 
+
+
+
+#### **Panic attack toolkit
+
+I'm not gonna send you out there unarmed. I'll defer to the experts on this bit, because they'll do a better job of explaining the techniques than I will. 
+
+Some of these are low cost, but not free.  *If you're broke, email me and I'll see if I can help.* *No promises though* 
+
+
+Get [the DARE app](https://apps.apple.com/us/app/dare-panic-anxiety-relief/id1034311206) . This has **everything** you need. It's incredible. Do the Daily Dares every morning, listen to the lessons, and use the "SOS" tracks to help walk you through exposures.  We've covered the general theory on how to face this shit, you don't really need more information, you need a hand putting it in practice. This app does just that better than anything else. 
+
+Some audible recs: 
+
+Anything By Claire Weekes
+
+DARE
+
+The Panic Switch 
+
+Un-Agoraphobic
+
+
+Listen to that content all the time so the truth sinks in. Use them to help you work up your activities lists. 
+
+
+
+> ***Shouldn't I get a therapist? This seems hard to do on my own. I need someone to talk to me.***
+
+If you have the means, 100% yes. My last therapist was **very** helpful.  You can recover without one, but a good therapist is worth their weight in gold. Find one that specializes in CBT, ERP, or Acceptance & Commitment Therapy. Look up agoraphobia specialist or "anxiety center near me". Every therapist out there claims to have a specialty in anxiety and depression. Ignore that. I think some common therapeutic approaches are harmful to the agoraphobe. 
+
+Controversial statement, I know. Maybe I'll expand on the finding a therapist bit later - but there are a lot of different approaches to anxiety treatment. As the saying goes, to a hammer, everything looks like a nail. This is unfortunately a very apt analogy in psychotherapy. 
+
+Many therapists will focus on removing shame, processing trauma, and just general validation & comfort. This is actively harmful for agoraphobia in my experience. Again, I'm not a doctor, I'm just relaying my experience. 
+
+So, yes, if you can get one, do it. If you can't, that's ok. Use the free & low cost resources online, you can beat this without one. 
+
+
+> "Ok, now what? I'm working my way up the activities lists, I'm using the DARE app to talk me through the hard moments, and I can do more stuff now, but it's still so hard."
+
+
+Remember earlier when I said *"You've already made a shit ton of progress even if it doesn't feel like it."*? I wasn't exaggerating. 
+
+If you're doing the activities you wanna do and are getting towards living the life you wanna live, you **no longer qualify as having agoraphobia.** 
+
+Remember, we're not trying to feel better. We're trying to live our life despite how we feel. You're doing that!  Aren't you living according to a values based calendar right now? What you do has nothing to do with your feelings. You just won the game. 
+
+Seriously, go look at the DSM-V definition of agoraphobia. If you're not avoiding stuff, you literally don't qualify as having the disorder anymore. 
+
+
+> ***"What?! No I still have anxiety. I still have to work pretty hard to be able to do the stuff I wanna do. If I was cured, I wouldn't feel this way. This can't be it."***
+
+I know, you're still highly sensitized and feel intense panic in a lot of situations where you think you shouldn't.  But now we're not talking about agoraphobia, we're talking about learning how to deal with panic attacks. Yes, they go hand in hand, but they are not different. 
+
+Look at what you just said, "No I still have anxiety". Be specific in your speech. You know that's not a problem - **anxiety is a healthy human emotion.** 
+
+**There is no such thing as an anxiety-free person.** Your emotional world is a lot more similar to people without agoraphobia than you think it is. Once you get to the point where avoidance is no longer running your schedule, you need to update how you're framing this to yourself. 
+
+**Agoraphobia is incompatible with a full, healthy, happy life. Panic attacks themselves are not.** 
+
+You feel uncomfortable feelings more than you would like to, and more than you think would be appropriate for a given situation. Don't fret, things will get easier over time, I swear. But let's get our theory caught up to our current situation: 
+
+You are not an agoraphobe. You defeated that when you decided to stop avoiding the things you fear and start living according to your values. **You should be very proud of yourself if you've reached this point. The hard part is done, the spell has been broken.** 
+
+This does not mean you have a healthy relationship with anxiety & panic. There is still plenty of progress to be made. Progress in this dimension happens on its own - you can't force it. Remember, trying to feel better is **avoidance**.  We don't do that around here. 
+
+As Claire Weekes puts it, this part of the process is just **letting time pass**. Trust your threat system to update when it has enough experience to do so.
+
+ I was *technically cured* for like a year before I realized I was. I had panic attacks all the time, felt dread before leaving the house pretty often, and really hesitated before committing to plans that would be hard to bail on. 
+
+  But I still did it all. I got on the planes, went on the dates, bought the concert tickets. Anxiety annoyed me, but it didn't stop me anymore. 
+
+Changing my self-identity from an **agoraphobe** to a **normal person feeling anxious** did a lot for me psychologically. 
+
+
+> **"Ok but when do the panic attacks stop? Fine, I can put up with this and not avoid stuff for a while. But I can't just live like this forever. This is exhausting, it still sucks. I'm annoyed that you're calling me recovered when I still feel so shitty so often"**
+
+Its helpful to be specific in the terminology. You can have panic disorder without agoraphobia. But why do you wanna hang on to the label so much? Do you think it helps you? Does it invalidate your fears and make you feel weak? 
+
+I'll say it again - **you are not a coward.**  Just because an emotion is normal does not mean it's easy to deal with. Every human on earth has bailed on something out of fear and has had a panic attack. They might not understand it that way, they may not frame it that way to you, but that's the truth. This is where self-identity comes in. 
+
+My mom has no *issues* with anxiety. Once I was having an annoying bout of DPDR and was talking to her about it. It's a hard thing to describe, but after a while my mom understood the feeling I was trying to explain. She went "ooohhhhh yeah, wait that's what that is? I totally get that sometimes. Like sometimes I'll be puttering in the kitchen and just feel - not real. Like I don't feel like I'm in my body and I can't think straight. It's creepy, I don't like it. Sometimes it lasts a couple days too. Hmm, I didn't know that was a thing. "
+
+My mom had experienced DPDR many times, to a pretty significant degree, but she's not in the habit of placing a lot of importance on how she physically feels. This highly uncomfortable experience did not even register as a thing worth remembering to her. 
+
+This was a long talk - at the end I was convinced my mom had felt exactly what I was freaking out about - yet she just brushed it off as a weird couple days. 
+
+Surely, a realistic "recovered" state would be around the same level as people who had never been diagnosed with an anxiety issue, right? So what are we actually aiming for here? What are our expectations? 
+
+
+**Let's get to when the panic attacks will stop**. I lied in the beginning of this when I said I don't get panic attacks anymore. that's not true,[ here's a video I recorded during a panic attack a couple months ago. ](https://youtube.com/shorts/GxMOuGzJfpg?si=_q6MCkmG2VCpZdJ7)
+
+Panic attacks hit people sometimes. It is what it is. The reason I said I don't get them anymore is because they don't scare me anymore. I'll get the same level of physical sensations I used to get, but it's about as distressing as an annoying headache. Headaches suck, they'll make you lay down for a minute and can kinda ruin part of a day. But, it's just a headache. 
+
+I have a few events coming up that will probably include panicky feelings - A long flight for a wedding, a flight for a bachelor party, and a flight to another wedding where I'll be a groomsman. There will probably be some discomfort there. Maybe more than the average person would feel in that same scenario. 
+
+
+
+## Let's reset expectations on the "cured life"
+
+Cured is not a finish line, it's a new starting point. It's what happens after you break the spell that has limited your **behavior**. It's not a post-anxiety utopia. 
+
+Emotions can be hard, that's fine. This isn't gonna be some Goggins invocation, I'm not gonna call you buttercup.  I'm not saying life is hard, get over it. What I'm saying is that the goal for anyone dealing with difficult emotions should be to process them in a way that leads to as little uneccessary suffering as possible, and doesn't have negative consequences on your life. We want a healthy relationship with emotions - one where we can accept and allow whatever we feel. We can allow ourselves to completely feel our emotions without fear that they'll reach an intolerable point and there's no turning back. 
+
+The cured person feels sick to their stomach on their way to a first date. Their palms sweat, they might dry-heave. Their heartrate will be through the roof. They'll take 7 shits before walking out the door. They'll get flushed and dizzy in the car on the way. 
+
+But they never think they need to bail. They're ok with the first date nerves - this is just part of the process. 
+
+In the next section we'll get into improvement above the baseline, but it's a different process that **must be done after we break the spell.** 
+
+Only move on to the next section if you have completely stopped avoidance behaviors & don't think that panic attacks signify a problem. You don't have to enjoy the hard stuff, but you have to be **willing & unafraid.** 
+
+This is important, because the next section will be about lowering your baseline anxiety and adjusting your lifestyle in ways that make you feel better & less anxious. If you're still in the habit of **avoidance**, this could be counter-productive. 
+
+Go buy yourself a steak dinner or something. You've done incredible work to get here. The resilience you've shown deserves recognition. I hope you don't think of yourself as a coward anymore(if you ever did, I mean) - replace that shame with pride. 
+
+Everything from here on out is just gravy. 
+
+
+
+# Part 2: Feeling Good. 
+
+This is the fun part. You don't have to do thing you don't wanna do anymore. No need for deliberate exposures anymore. Now we just work on well-being and building a nice life. We're working towards **elite emotional fitness** (I don't like this term, but it's the best I can come up with for now.) 
+
+Why even include this part? I'm already closing in on 10k words, and this seems like a different topic.
+
+There is a lot of room for growth above the line that would be considered **disordered**. The traits you've developed in the process of recovery can pay off extremely well when applied to other areas of life, so we're gonna take advantage of that. 
+
+Most importantly, there is so much we can do to improve how we feel and improve our day to day lived experience. We couldn't really focus on this bit while **avoidance** was still a factor. But now we can. 
+
+
+### **Reducing Anxiety**
+
+Routine is extremely calming. You don't wanna be too rigid with this, you have to be ok if this gets interrupted - but do not underestimate the mood stabilizing power of a solid circadian rhythm. 
+
+Stick to the schedule you made in the last section. Get up at the same time, eat at the same time, sweat at the same time. Fill your schedule with predictable time blocks that engage different systems. Focus, sweat, putter, relax, create, socialize, rest. The calm life is one where each of those systems has its time and place. 
+
+Get tired everyday, physically and mentally. Really apply yourself - this isn't about productivity - this is about having a nice day. And a nice day includes times of effort in different dimensions, getting useful work done, and luxuriating in the earned rest that comes after. 
+
+
+**Decisions, decisions.**
+
+> Anxiety is the dizziness of freedom
+
+The more time you spend hemming and hawing over a decision, the more anxious you will be. This makes us irritable, reactive, and gives way to rumination. 
+
+This is one of the reasons having a fully scheduled week is so calming. You don't want to have to decide what to do with every moment of your day. 
+
+Don't dabble in dilemmas. Almost every decision is reversible, and the long-term consequences of [irreversible decisions are unpredictable](https://www.youtube.com/watch?v=sWd6fNVZ20o&pp=ygUQYWxhbiB3YXR0cyBtYXliZdIHCQl-CQGHKiGM7w%3D%3D). Never perseverate over a pros & cons list before deciding what to do. 
+
+If it's a reversible decision, just go with your gut and don't overthink it. Who cares what you have for dinner? Just pick something. 
+
+If it's irreversible or high stakes, sleep on it for a few days. Let your subconscious mind work it out for you. I mean, do your due diligence, but once you have enough information to make a decision, let it go and let the answer come to you. 
+
+
+**Dealing with uncertainty**
+
+*Disclaimer: I would like to avoid discussions of Faith in this, because I don't want to alienate anyone and I know these can be emotionally charged subjects that carry a lot of baggage. My personal belief is that all wisdom traditions have some great mental frameworks for reducing anxiety, and in some cases, the best way to describe the mental framework is to use religious language. Please take this symbolically or metaphorically, do not miss the wisdom because it's attached to an institution.  
+
+
+I saw a video of a man in the middle east whose house was reduced to rubble. He was standing in the rubble pile looking to see if any of his possessions survived. A man walked up to him to interview him. This is based on memory and subtitles, but the point stands:
+
+> Interviewer: Sir, is this your apartment?
+> 
+> Man: Hello brother, yes this is. Mashallah, we are all safe. My wife, my daughter, we are all ok. Ah I'm so happy we're safe. 
+> 
+> Interviewer: But..your apartment is gone, where will you go? 
+> 
+> Man: Yes it is, but we're okay, we will find something, Inshallah. 
+> 
+> Interviwer: Do you have anything? Any clothes? Food? Water? 
+> 
+> Man: We will find it brother, thank you, thank you. 
+
+
+Mashallah is an Arabic term used in the Muslim world to say "God has willed it". 
+
+Inshallah is the same for god-willing. 
+
+Think about what these words mean to the man who used them. Mashallah and Inshallah are essentially the past and future tense of a term that denotes complete acceptance of whatever happens outside of our control. Say what you want about Theism and Religious fundamentalism, but that is a beautiful, deep concept. 
+
+This man reaffirms his acceptance of reality and his optimism in each sentence. If I can find the video, I may link it. What struck me in this video was the sense of peace this man seemed to have. Big smile on his face during the interview, gratitude pouring out of him as he stumbles through the rubble of everything he owns. 
+
+How can those of us in the secular world learn from this? What wouId the inner monologue of radical acceptance sound like? 
+
+I think the Alan Watts video I linked earlier here is a great place to start. It's a fantastic symbolic story of the unpredictability of life. How can we judge something as good or bad until we see it's final consequence? We really can't. That doesn't require a leap of faith - that's truly rational radical acceptance based on the fact that things unfold in unpredictable ways. 
+
+I have benefited quite a bit from reading wisdom traditions. I will not make any specific recommendations here, at least not just yet. But I would urge you to explore these things. 
+
+We must have humility about our understanding of reality. Our perception is not a perfect reconstruction of the world as it exists. It really is all up for interpretation. 
+
+Now, certainly there are some facts about the universe we can know, I'm not saying reject science. But I would argue that an adaptive mental framework is more important than a factually accurate mental framework.
+
+I do not believe things unfold as they *should*. Things just happen, in my view. BUT, when faced with uncertainty around how my life is unfolding - especially when that starts to turn into pessimism, I pretend that I think things unfold as they should. It is an effective bulwark against rumination in times of uncertainty. 
+
+
+My recommendation here is that you explore some wisdom traditions, see if you can find a mental framework that helps you accept the way things are. 
+
+
+
+**Using intuition**
+
+You can sidestep a lot of my recommendations above if you just commit to listening to your gut. This is hard to explain without leaning on mythology, but I'll try to give you a pragmatic way to access this. 
+
+Think of something you're worried about, or something that's been on your mind for a while. This could be as broad as "what should I do to improve my life?", or as specific as "What should I do this afternoon?". 
+
+Sit down somewhere quiet, and ask yourself that question. You may be surprised to get an immediate answer. I don't know where this answer comes from - it's some part of the mind that's able to communicate with my conscious self - but its' reasoning mechanism is not something I'm aware of. I ask a question I don't think I have an answer to, and I always get a response. The experience of it really feels like the asker and the answer-er are two different entities in my mind. 
+
+Even as I write this, I don't really know where these words are coming from. I'm just sitting at my computer with my attention loosely on the topic of anxiety, and 10k words have appeared. 
+
+There's something in us that can pull information out from the depths of our minds without us having to work too hard at it. Overthinking just gets in the way. 
+
+I think decision making is a creative act, when done well. Just like artists talk about invoking the muse to create something - you can invoke the muse to make your decisions. 
+
+
+
+
+
+
