@@ -338,9 +338,27 @@ You can get better.
 Some of that will sink in better when you actually experience it. But for now, I need you to just buy in. If you have any rebuttals to anything in this section, let me know and I'll address it. Email is marcantonyw@gmail.com
 
 
+Maybe you don't buy it - this wasn't enough to get your mindset where it needs to be. I'm going to ask you a question that seems dumber than it is, let me explain: 
+
+
+**Do you want to get over this?**  What's your favorite part of agoraphobia? How does this benefit you? Psychological issues often (always?) come with a  [**Secondary Gain**. ](https://www.mentalhealth.com/library/the-benefits-of-suffering-and-the-costs-of-well-being-secondary-gains-and-losses)
+
+For me, it was not having to do things I don't actually wanna do. I never have to pick people up from the airport. The airport is only 20 minutes away, but I find it really annoying. I do it occasionally, and if someone asks I won't decline - but I enjoy the fact that people are used to not asking me for rides. Getting over agoraphobia, really, meant I had no reason to decline an airport pick up. 
+
+Or what about a 10 day work trip? That's way too long - I'll do 3 or 4. It's just *too much* for me. I don't want to handle that, I'm not gonna do that. 
+
+Remember how nice a sick day from school was as a kid? It was better to feel a little sick and be able to spend the day playing video games unbothered than it was to feel 100% but have to go to school. The same concept applies. 
+
+We're gonna talk a lot about **willingness** in the next section. The two main obstacles to **willingness** are thinking you can't handle it & not wanting to do it. You have to want to do it. 
+
+
+
+
+
 # The program
 
-Now that the mindset bit is covered, let's get into the practical steps. While a lot of this is based on legit, validated approaches - this is mostly broscience based on my experience of what works.  The validated approaches work, but there's a lot of room to customize. 
+
+Now that the mindset bit is covered, let's get into the practical steps. While a lot of this is based on legit, validated approaches - this is mostly broscience based on my experience of what works.  This is still in line with the validated approaches that work, but is my own recommendation based on my experience. 
 
 
 ### Begin with the end in mind 
@@ -359,12 +377,13 @@ Add those events in
 
 
 
-This is the goal. Don't get lost in the weeds of some ambiguous "I need to beat agoraphobia" goal. This is what we're working towards. 
+**This is the goal**. Don't get lost in the weeds of some ambiguous "I need to beat agoraphobia" goal. This is what we're working towards. 
 
-What would it take for you to be able to live out that week? How close can you get? What seems do-able, what seems impossible? 
+What would it take for you to be able to live out that week? How close can you get? What seems do-able, what seems impossible? Just look at the calendar and try to visualize going through each day as realistically as you can. Notice which scenarios are exciting and which are daunting. 
 
 
-Now we convert these events into themed time blocks. Maybe call em **Social**, **Active**, **Explore/Nature**, or whatever works for you. 
+
+Now we convert these events into themed time blocks. Maybe call em **Social**, **Active**, **Explore/Nature**, or whatever matches your ideal week. 
 
 
 ![Calendar showing themed timeblocks](/images/timeblock.png)
@@ -373,15 +392,15 @@ Now we convert these events into themed time blocks. Maybe call em **Social**, *
 
 ### Work Backwards
 
-Now we have a concrete goal in mind and a structure we can work with. How can you fill those time blocks with where you are now? 
+Now we have a concrete goal in mind and a structure we can work with. How can you fill those time blocks in enjoyable ways with where you are now? **This is not about exposure**, do things that you're comfortable with today. 
 
-Maybe dinner at a restaurant seems uncomfortable, what could you do instead to be social for a couple hours on those weeknights? This is not exposure, this is just filling our time in an enjoyable way - intentionally adding some balance back in where we can. 
+Maybe dinner at a restaurant seems uncomfortable, what could you do instead to be social for a couple hours on those weeknights? 
 
-Could you go to a friends house? Invite one over? Go to a cafe? Facetime someone? Get on whatever version of chatroulette exists nowadays? Whatever you can do where you are, do that. 
+Could you go to a friends house? Invite one over? Go to a cafe? Facetime someone? Get on whatever version of chatroulette exists nowadays? Whatever social thing you can do where you are, do that. 
 
-Your active block could be a backyard work out, a nearby gym, a drop-in fitness class, or maybe you're willing to go straight to that class you've been wanting to try but have been hesitant to. 
+Your active block could be a backyard work out, a nearby gym, a drop-in fitness class, or maybe you're comfortable going straight to that class you've been wanting to try but have been hesitant to. 
 
-Nature/Adventure block could be a walk through the neighborhood, maybe down a different path than usual. Or the same path in the opposite direction. Just introduce some novelty and get some fresh air. 
+Nature/Adventure block could be a walk through the neighborhood, maybe down a different path than usual. Or the same path in the opposite direction. Or a nearby park. Or a lil hike. Just introduce some novelty and get some fresh air. 
 
 
 You get the point. Fill your time & get as close as you can to your goal lifestyle while still enjoying it. Deliberate exposure comes later - just enjoy yourself a bit more now. 
@@ -389,15 +408,65 @@ You get the point. Fill your time & get as close as you can to your goal lifesty
 
 Here's why I think this is a good place to start: 
 
-**Your mind is on the goal, not on anxiety.** With fear ladders and exposure hierarchies, the thing you're actually doing is kind of a side note, the main focus is the level of anxiety you expect to experience there. If a level 4 exposure is dinner with a friend, the dinner itself is almost an afterthought, it's still all about feelings. 
+1. **Your mind is on the goal, not on anxiety.** With fear ladders and exposure hierarchies, the thing you're actually doing is kind of a side note, the main focus is the level of anxiety you expect to experience there. If a level 4 exposure is dinner with a friend, the dinner itself is almost an afterthought, it's still all about feelings. 
 
-With the calendar exercise, it's the other way around. The main focus is the thing you're doing, the anxiety/limitation is a side note. 
+With the calendar exercise it's the other way around. The main focus is the thing you're doing, the anxiety/limitation is a side note. 
 
-**You get quality of life improvements without needing to progress.** Spending time deliberately is just good to do, for everyone. You end up living a more balanced life and spend time doing things based on values and goals, not feelings. 
+2. **You get quality of life improvements without needing to progress.** Spending time deliberately is just good to do, for everyone. You end up living a more balanced life and spend time doing things based on values and goals, not feelings. 
 
 
-**It changes how you make plans in an important way.** If you have nothing scheduled, you're just gonna do what you feel like doing. What else could it be? And consulting how you feel before deciding what to do is not a good habit, especially for a recovering agoraphobe. We're going for values based actions, not feelings based actions. 
+3. **It changes how you make plans in an important way.** If you have nothing scheduled, you're just gonna do what you feel like doing in the moment. Consulting how you feel before deciding what to do is not a good habit, especially for a recovering agoraphobe. We're going for values based actions, not feelings based actions. 
 
+
+I'm gonna expand on the third point a bit, because it's **really** important.  **Agoraphobia recovery is in your behavior, not in your feelings**. What you do should be based on your values & your goals, not on your feelings. Feelings are fickle and not that important. One of the key mindset shifts we're going for is to take feelings more lightly. They should be a much smaller part of your overall life than they are now. **Feelings are important**, but if you're agoraphobic, you definitely need to place less importance on them. Some people need to be more in touch with their feelings - that's not you right now. 
+
+
+This is your task right now. Don't worry about exposures, just go have a nice week. 
+
+
+> ***"I can't think of anything I wanna do. My entire day is empty, I don't know how to fill it. I've been like this so long, I have nothing to do. I just wake up, try to get through the day, and kill time before I can go to bed again. How do you even know where to start?"***
+
+
+I get that. This is gonna be individual, you need to spend some time thinking about your values and goals. There are plenty of online resources to help with this. I'll link some resources here if I come across em, but for now, I'll leave that to you. ChatGPT is pretty good at this. 
+
+There are some universals that I think apply to everyone. If you don't know what to do, create a timeblock for each of these categories:
+ - Exercise
+ - Socialize
+ - Get outside
+ - Create something
+ - Get good at something 
+ - Take an interest seriously
+ - Take good care of yourself and your stuff
+
+That takes a lot more time than you think. 
+
+I personally like having a very regular routine. This is based on a lot of experimentation and is always changing, but this has been stable for a bit - because it works very well for me. 
+
+7am - 8am: Wake up, shower, tidy up a bit, get moving, head to a cafe. 
+
+8am-11am: Cafe focus block. This is when I do creative stuff or work projects. It's currently 9:45 AM on a friday, I'm writing this from the outside section of a cafe. 
+
+11am-noon: errands and eat. 
+
+noon-2pm: Second work block on weekdays. 
+
+2pm-330pm: work out. Lift or run. 
+
+330pm-430pm: eat & finish up work. 
+
+430pm-730pm: get out of my head. Surf with some friends if there are waves, go for a walk, do some DIY around the house. Maybe grab happy hour with a friend. 
+
+730pm-830pm: Dinner time
+
+830pm-10pm: unwind, do whatever I want. 
+
+10pm-midnight: free time until I'm sleepy. 
+
+
+I stick pretty closely to this unless life gets in the way. Which is totally fine, this is just a structure I like, it's not something I need to stick to in order to feel ok.  
+
+
+# Ok, stop reading this. Go enjoy your week, check back in next Sunday. 
 
 
 
