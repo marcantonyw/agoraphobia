@@ -1,8 +1,11 @@
 **Note** – This is an early draft and will be a continual work in progress.
 
-
 <div id="prologue"></div>
 
+
+
+
+mic check
 # Intro
 
 Agoraphobia has been the main *thing* in my life.  I don't mean the main problem, I mean the most consistent, salient thing. Jobs, relationships, health, school, money, whatever - everything else is a side note. That's what it seems like at least. 
@@ -363,35 +366,6 @@ Add those events in
 
 ![Calendar showing filled schedule](/images/calendar-filled.png)
 
-
-
-
-This is the goal. Don't overcomplicate it, don't lose sight of it. Don't get lost in the weeds of some ambiguous "I need to beat agoraphobia" goal. This is what we're working towards. 
-
-What would it take for you to be able to live out that week? How close can you get? What seems do-able, what seems impossible? 
-
-
-Now we convert these events into themed time blocks. Maybe call em **Social**, **Active**, **Explore/Nature**
-
-
-![Calendar showing themed timeblocks](/images/timeblock.png)
-
-
-
-### Work Backwards
-
-Now we have a concrete goal in mind and a structure we can work with. How can you fill those time blocks with where you are now? 
-
-Maybe dinner at a restaurant seems uncomfortable, what could do you do instead to be social for a couple hours on those weeknights? This is not exposure, this is just filling our time in an enjoyable way - intentionally adding some balance back in where we can. 
-
-Could you go to a friends house? Invite one over? Go to a cafe? Facetime someone? Get on whatever version of chatroulette exists nowadays? Whatever you can do where you are, do that. 
-
-Your active block could be a backyard work out, or a nearby gym, or a drop-in fitness class, or maybe you're fine to go straight to that class you've been wanting to try but have been hesitant to. 
-
-Nature/Adventure block could be a walk through the neighborhood, maybe down a different path than usual. Or the same path in the opposite direction. Just introduce some novelty and get some fresh air. 
-
-
-You get the point. Fill your time & get as close as you can to your goal lifestyle while still enjoying it. Deliberate exposure comes later - just spend your time well for now. 
 
 
 

@@ -60,6 +60,13 @@ import StickyToc from '../components/StickyToc.astro';
   margin-left: auto;
   margin-right: auto;
 }
+
+/* Add new style for email */
+.hero-section .email {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 1rem;
+}
       
       /* Article styling for markdown content */
       article.content h1,
@@ -169,6 +176,15 @@ import StickyToc from '../components/StickyToc.astro';
         margin-top: 2rem;
         margin-bottom: 1.5rem;
       }
+
+      :global(article.content img) {
+        max-width: 100% !important;
+        height: auto;
+        border-radius: 8px;
+        margin: 1.5rem auto;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        display: block;
+      }
     </style>
   </head>
   
@@ -184,6 +200,7 @@ import StickyToc from '../components/StickyToc.astro';
       <div class="hero-section">
         <h1>Agoraphobia Recovery</h1>
         <p>A laymen's guide</p>
+        <p class="email">Marc - marcantonyw@gmail.com</p>
       </div>
       
       <!-- Make sure content class is applied -->
