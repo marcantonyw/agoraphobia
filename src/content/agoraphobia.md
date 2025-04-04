@@ -283,14 +283,48 @@ A setback is not set in stone, you can undo it with one successful bout of expos
 
 So look at the "traumatizing" nature of your panic attacks as an opportunity to quickly make lasting change. 
 
+ADD THAT STORY ABOUT LAIRD HAMILTON
+
 
 > **"But I can't handle all the feelings. I will run away if it gets bad enough. So I'm right in thinking that it could be harmful for me to be in a situation I'm not ready for. How am I supposed to act like this is harmless if backing out during a panic attack is harmful?"**
 
 
 This is the reason gradual exposure tends to be more effective than flooding. 
 
-Gradual exposure works by starting low and working your way up  in manageable steps. Flooding is goin fuck it yolo and chucking yourself into a situation you're genuinely not ready for. 
+Gradual exposure works by starting low and working your way up in manageable steps. Flooding is goin fuck it yolo and chucking yourself into a situation you're genuinely not ready for. 
 
 If you haven't left your house in months, don't get on an international flight. You could spaz out and think "I WILL NEVER GO OUTSIDE AGAIN FUUUUCCCKKK THIS". 
 
-Gradual exposure helps you build up the confidence. 
+Gradual exposure helps you build up the confidence. You wanna set yourself up for a win. I think it's almost time to get onto what to do about all this. But first, let's make sure the foundations are set:
+
+Panic attacks are uncomfortable, but not dangerous. 
+Your particular flavor of panic is not as different as you think.
+The cure is in behavior going up, not feelings going down. 
+
+Got it? 
+
+> **"No, there are psych meds for a reason. I don't think this'll work, I know plenty of people who've had success with things like SSRIs, Benzos, supplements, diet change. Maybe I need to try something like that to give me a little help, just to make it tolerable. "**
+
+
+I get why you're saying this. I went down that path too (scroll up). But it's just the wrong direction. The goal is willful confrontation and acceptance of feelings, no matter how intense. Trying to make the feelings diminish is avoidance, and is the fuel that keeps all this alive. 
+
+
+Obviously I'm not a doctor, I'm in no position to discuss meds with you. I will give my take, but this will be the only part of this whole write-up (or whatever the hell this is ) that is explicitly NOT a recommendation or advice. These are just my thoughts. 
+
+Supplements: whatever, go for it. I like L-theanine, magnesium, and cbd before bed, seems to help me sleep. Looking for the cure in these things is a problem, but just taking them is not an issue. Who knows, maybe you're deficient in something that's causing symptoms that lead you to panic. Probably won't do any harm in themselves, but the mindset of "I need to take this so I don't feel weird" is definitely not gonna help. 
+
+SSRIs: idk man, I've heard some amazing things from some people. I know one person who had crippling anxiety that just completely washed away when she got on an SSRI. But she didn't have agoraphobia, she had Generalized Anxiety Disorder. That's not the topic of this write up and isn't something I have experience with. 
+
+Benzos: I'm a little hesitant to say what I wanna say on this topic. But whatever, this is my website. Benzos are da devil Bobby Bouchet. They absolutely fucking destroy your GABA system and kill your ability to be chill on your own. Getting off these was **brutal**. I mean, my use was excessive. Daily for a few years, almost daily for like 7 years total. They made me worse. THey make everyone worse long term. The research on this is not controversial. I know it's a lot harder to get these now than it used to be. But I think they're considered safe for like 2 weeks of use. Past that, it's known to cause a bunch of issues. Idk, talk to your doc and do your own research on this. But if a doc wants to give you benzos for panic disorder, go somewhere else. Be very, very careful with these. 
+
+Beta Blockers: Probably fine. Especially for situational anxiety. I know a lot of people use these before performances or flights or whatever. They just limit the impact of adrenaline.  
+
+
+Lifestyle stuff: I'm gonna contradict myself a bit. I've been droning on about how important it is to not try to make yourself feel better. I think the more precise way to describe it would be - don't try to lessen bad feelings. Increasing good feelings and lowering bad feelings are two different things. One is running toward something, the other is running away from something. 
+
+More on that later. 
+
+
+
+
+
