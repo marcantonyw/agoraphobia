@@ -566,11 +566,11 @@ Listen to that content all the time so the truth sinks in. Use them to help you 
 
 > ***Shouldn't I get a therapist? This seems hard to do on my own. I need someone to talk to me.***
 
-If you have the means, 100% yes. My last therapist was **very** helpful.  You can recover without one, but a good therapist is worth their weight in gold. Find one that specializes in CBT, ERP, or Acceptance & Commitment Therapy. Look up agoraphobia specialist or "anxiety center near me". Every therapist out there claims to have a specialty in anxiety and depression. Ignore that. I think some common therapeutic approaches are harmful to the agoraphobe. 
+If you have the means, 100% yes. My last therapist was **very** helpful.  You can recover without one, but a good therapist is worth their weight in gold. Find one that specializes in CBT, ERP, or Acceptance & Commitment Therapy. Look up agoraphobia specialist or "anxiety center near me". Every therapist out there claims to specialize in anxiety and depression. Ignore that, go for a specific agoraphobia specialty.
 
-Controversial statement, I know. Maybe I'll expand on the finding a therapist bit later - but there are a lot of different approaches to anxiety treatment. As the saying goes, to a hammer, everything looks like a nail. This is unfortunately a very apt analogy in psychotherapy. 
+There are a lot of different approaches to anxiety treatment. As the saying goes, to a hammer, everything looks like a nail. This is unfortunately a very apt analogy in psychotherapy. 
 
-Many therapists will focus on removing shame, processing trauma, and just general validation & comfort. This is actively harmful for agoraphobia in my experience. Again, I'm not a doctor, I'm just relaying my experience. 
+Many therapists will focus on removing shame and just general validation & reassurance. Dropping the shame is definitely important, but the way some therapists validate their patients is harmful for agoraphobia in my experience. 
 
 So, yes, if you can get one, do it. If you can't, that's ok. Use the free & low cost resources online, you can beat this without one. 
 
