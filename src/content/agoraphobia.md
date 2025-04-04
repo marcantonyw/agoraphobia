@@ -584,12 +584,12 @@ If you're doing the activities you wanna do and are getting towards living the l
 
 Remember, we're not trying to feel better. We're trying to live our life despite how we feel. You're doing that!  Aren't you living according to a values based calendar right now? What you do has nothing to do with your feelings. You just won the game. 
 
-Seriously, go look at the DSM-V definition of agoraphobia. If you're not avoiding stuff, you literally don't qualify as having the disorder anymore. 
+Seriously, go look at the DSM-V definition of Agoraphobia. If you're not avoiding stuff, you literally don't qualify as having the disorder anymore. 
 
 
 > ***"What?! No I still have anxiety. I still have to work pretty hard to be able to do the stuff I wanna do. If I was cured, I wouldn't feel this way. This can't be it."***
 
-I know, you're still highly sensitized and feel intense panic in a lot of situations where you think you shouldn't.  But now we're not talking about agoraphobia, we're talking about learning how to deal with panic attacks. Yes, they go hand in hand, but they are not different. 
+I know, you're still highly sensitized and feel intense panic in a lot of situations where you think you shouldn't.  But now we're not talking about agoraphobia, we're talking about learning how to deal with panic attacks. Yes, they go hand in hand, but **they are different.** 
 
 Look at what you just said, "No I still have anxiety". Be specific in your speech. You know that's not a problem - **anxiety is a healthy human emotion.** 
 
