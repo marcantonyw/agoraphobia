@@ -16,27 +16,27 @@ I hope this gets to someone else in that same spot.
 
 ## The Cure
 
-> The Only Winning Move Is Not To Play
+> **"The Only Winning Move Is Not To Play"**
 
 
-The way out isn’t easy, but it’s not a mystery. I think the simplicity makes it harder to trust. This section alone won’t be enough to convince you, but it’s important to keep in mind what the cure actually is & not overcomplicate it. It’s the hardest thing I’ve ever dealt with—so don’t interpret this as me saying “just get over it, bro.” I’m with you, but we’ll get there.
+The way out isn't easy, but it's not a mystery. I think the simplicity makes it harder to trust. This section alone won't be enough to convince you, but it's important to keep in mind what the cure actually is & not overcomplicate it. It's the hardest thing I've ever dealt with—so don't interpret this as me saying "just get over it, bro." I'm with you, but we'll get there.
 
 #### First,  Drop the Shame
 
-This isn’t your fault. Your brain wiring combined with your experiences brought you here. You didn’t choose those things. You’re not weak-willed, you’re not a coward. This can be hard to understand from the outside. The people giving you shit about being a shut-in care about you; they want you healthy and happy. They just can’t understand why you’re so scared of going out with a tummy ache or whatever. The advice here will sound annoyingly similar to shit these people have been saying for years. Keep an open mind. 
+This isn't your fault. Your brain wiring combined with your experiences brought you here. You didn't choose those things. You're not weak-willed, you're not a coward. This can be hard to understand from the outside. The people giving you shit about being a shut-in care about you; they want you healthy and happy. They just can't understand why you're so scared of going out with a tummy ache or whatever. The advice here will sound annoyingly similar to shit these people have been saying for years. Keep an open mind. 
 
 #### [Panic attacks are uncomfortable, but not dangerous.](https://www.youtube.com/watch?v=8Un_Ykh9y9Q) 
 
-Agoraphobia hijacks the fight/flight response—there is no way to experience panic without believing you’re in danger, by definition. That doesn’t mean there actually is danger; that’s just how this works. You will not panic yourself into a heart attack, psychosis, fainting, losing control of the car, etc. The feelings will appear, intensify, peak, and wash away. 
+Agoraphobia hijacks the fight/flight response—there is no way to experience panic without believing you're in danger, by definition. That doesn't mean there actually is danger; that's just how this works. You will not panic yourself into a heart attack, psychosis, fainting, losing control of the car, etc. The feelings will appear, intensify, peak, and wash away. 
 
-*No, yours are not different. I know, I know—trust me, they’re not.*
+*No, yours are not different. I know, I know—trust me, they're not.*
 
-Trying to make the feelings go away makes them worse. This is **avoidance**. Stop all attempts to feel less anxious. No breathing exercises, ice water, meditation—nada. There’s a time and place for  all that, but it’s not while you’re in the habit of **avoidance**. 
+Trying to make the feelings go away makes them worse. This is **avoidance**. Stop all attempts to feel less anxious. No breathing exercises, ice water, meditation—nada. There's a time and place for  all that, but it's not while you're in the habit of **avoidance**. 
 
-Test it. See what the feelings can actually do if you don’t avoid them. Puking is probably the worst of it. So what? Swish some water and change your shirt. The part of your brain that creates these feelings is deaf to thoughts; it only learns through experience. Show it there’s no threat by acting as if there’s no threat. Changing your behavior is the cure. The feelings will dissipate, but it’ll take longer than you think, and praying for that day to come is **avoidance**. The good news is that even the worst panic attacks aren’t that bad when you don’t resist. This is a skill, and it takes practice. 
+Test it. See what the feelings can actually do if you don't avoid them. Puking is probably the worst of it. So what? Swish some water and change your shirt. The part of your brain that creates these feelings is deaf to thoughts; it only learns through experience. Show it there's no threat by acting as if there's no threat. Changing your behavior is the cure. The feelings will dissipate, but it'll take longer than you think, and praying for that day to come is **avoidance**. The good news is that even the worst panic attacks aren't that bad when you don't resist. This is a skill, and it takes practice. 
 
 
-> **Why Should I Listen to You? If you're gonna say it's that easy, you obviously don't understand what this is like.** 
+> **"Why Should I Listen to You? If you're gonna say it's that easy, you obviously don't understand what this is like."**
 
 Good question.
 
@@ -50,10 +50,10 @@ This isn't about me, but my credibility is in my experience, so I'll do a quick 
 - **Teenage years:** Major panic attack at 17. Started meds and therapy, isolated socially, ended first relationship.
 - **Early 20s:** Became a hermit, hooked on benzos, was convinced something is physically wrong. Went to a bunch of doctors trying to find an answer. 
 - **Mid 20s:** Tried exposures, made some progress, had setbacks, another relationship ended due to anxiety. Lost faith in the process. 
-- **Late 20s:** Heartbroken and depressed, moved 500 miles from home to force recovery or die trying. Finally got a glimpse of **“not caring”**, found a new specialist that uses the ACT Methodology. 
+- **Late 20s:** Heartbroken and depressed, moved 500 miles from home to force recovery or die trying. Finally got a glimpse of **"not caring"**, found a new specialist that uses the ACT Methodology. 
 - **Early 30s (now):** Fully recovered, no panic attacks, completely fine.
 
-#### Things I Tried (That Didn’t Work)
+#### Things I Tried (That Didn't Work)
 
 - Lexapro  
 - Prozac  
@@ -88,24 +88,24 @@ This isn't about me, but my credibility is in my experience, so I'll do a quick 
 #### A Few Lowlights
 
 - Failed out of college classes (eventually finished online).  
-- Lost dream job because I couldn’t cross a bridge.  
+- Lost dream job because I couldn't cross a bridge.  
 - Panicked so badly during a traffic stop that cops thought I was on meth and I failed a field sobriety test, sober.  Also threw up on his shoe. 
 - Jumped from a moving car on the freeway in panic, called a cab home.  
-- Ruined a relationship that *probably* would’ve worked out otherwise.  
-- Diagnosed with IBS (more on that later), lost weight I couldn’t afford to lose.
+- Ruined a relationship that *probably* would've worked out otherwise.  
+- Diagnosed with IBS (more on that later), lost weight I couldn't afford to lose.
 - Completely ended a relationship with an entire side of my family because I stopped being able to travel to visit them. 
 
-#### A few times I Was Sure It Wasn’t Anxiety
+#### A few times I Was Sure It Wasn't Anxiety
 
-- Woke up with full body left side numbness, tried to walk to the bathroom but couldn’t balance and fell over in the hallway. Called 911 thinking it was a stroke.  
-- Airport bathroom: couldn’t get off the toilet, cancelled trip because I was sick. Got home, stomach was fine.  
+- Woke up with full body left side numbness, tried to walk to the bathroom but couldn't balance and fell over in the hallway. Called 911 thinking it was a stroke.  
+- Airport bathroom: couldn't get off the toilet, cancelled trip because I was sick. Got home, stomach was fine.  
 - Throat closing, was sure it was anaphylactic shock.  
 - Shortness of breath on a very short hike, was sure it was an asthma attack.  
 - Left my mom alone in Disneyland to rush to the ER, was sure my appendix had burst.  
 - Driving to a park with gf at the time, DPDR so intense I was sure I just had a psychotic break.
 
 
-So we’re talking **20 years of crippling agoraphobia, 7 years on benzos**. And now I’m 100% fine.
+So we're talking **20 years of crippling agoraphobia, 7 years on benzos**. And now I'm 100% fine.
 
 No, I'm not a therapist. I'm not the best writer. I have no aspirations to be some sort of coach or authority figure. There are plenty of reasons not to listen to me. But me **not getting it** is not one of those reasons.  
 
@@ -116,21 +116,21 @@ No, I'm not a therapist. I'm not the best writer. I have no aspirations to be so
 
 Ignore might not be the right word, but yeah. Sorta.
 
-When you’re panicking, there’s no way to know with 100% certainty that what you’re feeling is _just_ anxiety. Certainty doesn’t exist. But you’re mixing up two different things:
+When you're panicking, there's no way to know with 100% certainty that what you're feeling is _just_ anxiety. Certainty doesn't exist. But you're mixing up two different things:
 
  **Tolerance of discomfort** vs. **A sense of actual danger**
 
-Let’s start with danger.
+Let's start with danger.
 
-Panic attacks can mimic almost any medical condition. Chest pain, nausea, dizziness, numbness, throat closing—whatever. If you’re having a new or alarming symptom, go to the doctor. Maybe even go to the ER. I’ve had multiple EKGs, and I don’t regret any of them—even when it turned out to be nothing.
+Panic attacks can mimic almost any medical condition. Chest pain, nausea, dizziness, numbness, throat closing—whatever. If you're having a new or alarming symptom, go to the doctor. Maybe even go to the ER. I've had multiple EKGs, and I don't regret any of them—even when it turned out to be nothing.
   
-That’s the right move: get checked out. Get tests done. Rule out the big stuff.
+That's the right move: get checked out. Get tests done. Rule out the big stuff.
 
-Tell the doctor what’s going on. If they blow you off, insist. If you’re not convinced, get a second opinion. **But once you’ve ruled out the big stuff, you have to stop treating every symptom like it’s life-threatening.**
+Tell the doctor what's going on. If they blow you off, insist. If you're not convinced, get a second opinion. **But once you've ruled out the big stuff, you have to stop treating every symptom like it's life-threatening.**
 
-That’s the trap. That’s how you teach your brain to freak out at every twitch, every tight breath, every stomach gurgle. 
+That's the trap. That's how you teach your brain to freak out at every twitch, every tight breath, every stomach gurgle. 
 
-The more inappropriate medical reassurance you seek, the worse your symptoms will get. Every time you go looking for proof that you’re safe, you’re training yourself to believe that you’re _not_. 
+The more inappropriate medical reassurance you seek, the worse your symptoms will get. Every time you go looking for proof that you're safe, you're training yourself to believe that you're _not_. 
 
 Let's say you rule out the throat closing issue. You've done the allergy tests, you're not gonna go into anaphylactic shock. Your tonsils are fine. What are you supposed to do the next time you get that feeling? 
 
@@ -186,15 +186,15 @@ This is all normal, safe, well understood physiology.
 
 So all the stomach issues you're plagued with are not signs that you have food poisoning and need to cancel the trip. It'll come and pass in waves. 
 
-> ***That makes sense to me now, while I’m calm sitting at home.  
-> But as soon as I try to go do something, I’m gonna panic and forget all of this.  
-> I can’t just ignore the sensations—they’re overwhelming.*** 
+> ***That makes sense to me now, while I'm calm sitting at home.  
+> But as soon as I try to go do something, I'm gonna panic and forget all of this.  
+> I can't just ignore the sensations—they're overwhelming.*** 
 
-Yeah, of course. Understanding what’s happening is just the **prerequisite** to the cure, it's not the cure. Bridging the gap between *knowing* and *doing* starts with a concept called **defusion**.
+Yeah, of course. Understanding what's happening is just the **prerequisite** to the cure, it's not the cure. Bridging the gap between *knowing* and *doing* starts with a concept called **defusion**.
 
 ### Defusion (In Two Senses)
 
-“Defusion” is kind of a double entendre here.
+"Defusion" is kind of a double entendre here.
 
 In Acceptance and Commitment Therapy (ACT), **cognitive fusion** is when you're completely wrapped up in your thoughts.  
 You're *fused* with them. There's no space between *you* and *what you're thinking*.  
@@ -206,26 +206,26 @@ Widening your view. Stepping back. Detaching. Watching the thought instead of *b
 In the [DARE response method](https://www.dareresponse.com/), **D stands for Defuse** in a different way—like defusing a bomb.  Defuse the threat by saying "ok...and?" to every fear. 
 
 
-> Your throat feels like it’s closing?  
-> Nope. It just *feels* like that. That’s a specific medical condition you don’t have.   It feels a little tight, ok and? 
+> Your throat feels like it's closing?  
+> Nope. It just *feels* like that. That's a specific medical condition you don't have.   It feels a little tight, ok and? 
 >  
-> You think you’re gonna pass out while driving?  
+> You think you're gonna pass out while driving?  
 > Nope. Anxiety raises blood pressure, fainting is caused by a drop in blood pressure. 
 >  
-> You feel like you’re gonna puke?  
+> You feel like you're gonna puke?  
 > You might. So what? Puking is a safe, normal bodily process. Unpleasant? Sure. Dangerous? Nope.
 
 To get better, you need to **defuse in both senses** of the word.
 
 You create space from the thoughts and feelings by observing them, *and* you disarm the threat by calling it's bluff. 
 
-That’s how you bring your rational understanding of safety *into* a moment of panic.  
+That's how you bring your rational understanding of safety *into* a moment of panic.  
 
 > ***"You're just telling me to calm down in different words. How is this supposed to be helpful? The waves don't come and go. I'm in a constant state of terror & sick to my stomach until I get back home. Even when I rationally know I'm safe and it's just anxiety, the feelings are overwhelming. This would not work. "***
 
 
 
->  We think of the key, each in his prison, thinking of the key, _each confirms a prison_.”
+>  We think of the key, each in his prison, thinking of the key, each confirms a prison.
 
 #### Now we're onto tolerance of discomfort.  
 
@@ -283,7 +283,20 @@ A setback is not set in stone, you can undo it with one successful bout of expos
 
 So look at the "traumatizing" nature of your panic attacks as an opportunity to quickly make lasting change. 
 
-ADD THAT STORY ABOUT LAIRD HAMILTON
+Example: 
+I just watched [this documentary of Laird Hamilton ](https://www.youtube.com/watch?v=utCQB2SG6UA)- big wave surfer guy. He does wild shit. 
+Some waves are so big and fast, you have be towed into them by a jetski. That was his idea. 
+
+Long story short, one day Laird and the guy towing him out to a big wave got caught in a bad spot and barely survived. Watch the doc for the details, but just imagine getting ragdolled by a wave so big it's physically impossible to surf it without a jetski and being unable to get back to the surface. When you finally do surface, you've gone >100 yards from where you started. 
+
+They *barely* make it back to the shore, his friend gets picked up by paramedics and goes straight into emergency surgery for a leg wound, but Laird found some other guy on the beach who was willing to tow him back out to the wave he just barely survived, and went immediately back out there. PSYCHO SHIT RIGHT? 
+
+Laird said he knew that if he didn't go right back out there, he'd be scared of big wave surfing forever and may never be able to overcome it. He instinctually knew, that before he leaves that situation and gets out of the danger, he **needs** to get back out there to prevent this from  becoming a traumatic experience. They went back out, he caught the wave, all was good. 
+
+Laird still surfs big waves to this day. His jet ski buddy never went near a big wave again. Jet ski guy needed emergency surgery, so it's not like he had the choice to get back out there. But there's a lesson in that. 
+
+Laird somehow knew intuitively that turning back in that moment would lead to a fear he didn't want to develop. 
+
 
 
 > **"But I can't handle all the feelings. I will run away if it gets bad enough. So I'm right in thinking that it could be harmful for me to be in a situation I'm not ready for. How am I supposed to act like this is harmless if backing out during a panic attack is harmful?"**

@@ -109,12 +109,22 @@ import StickyToc from '../components/StickyToc.astro';
         text-decoration: underline;
       }
       
-      article.content blockquote {
+      /* Blockquote styling */
+      :global(blockquote) {
         margin: 1.5rem 0;
-        padding-left: 1rem;
-        border-left: 4px solid #ddd;
+        padding: 1rem 1.5rem;
+        border-left: 6px solid forestgreen;
+        background-color: #f9f9f9;
         color: #555;
         font-style: italic;
+      }
+
+      :global(blockquote p) {
+        margin: 0;
+      }
+
+      :global(blockquote strong) {
+        color: inherit;
       }
       
       article.content ul,
@@ -171,13 +181,12 @@ import StickyToc from '../components/StickyToc.astro';
     </aside>
     
     <main>
-      <!-- Hero Section outside of the article -->
       <div class="hero-section">
         <h1>Agoraphobia Recovery</h1>
         <p>A laymen's guide</p>
       </div>
       
-      <!-- Render markdown content within an article with the "content" class -->
+      <!-- Make sure content class is applied -->
       <article class="content">
         <slot />
       </article>
