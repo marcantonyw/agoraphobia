@@ -20,7 +20,7 @@ I hope this gets to someone else in that same spot.
 > **"The Only Winning Move Is Not To Play"**
 
 
-The way out isn't easy, but it's not a mystery. I think the simplicity makes it harder to trust. This section alone won't be enough to convince you, but it's important to keep in mind what the cure actually is & not overcomplicate it. It's the hardest thing I've ever dealt with—so don't interpret this as me saying "just get over it, bro." I'm with you, but we'll get there.
+The way out isn't easy, but it's not a mystery. I think the simplicity makes it harder to trust. This section alone won't be enough to convince you, but it's important to keep in mind what the cure actually is & not overcomplicate it. It's the hardest thing I've ever dealt with-so don't interpret this as me saying "just get over it, bro." I'm with you, but we'll get there.
 
 #### First,  Drop the Shame
 
@@ -28,11 +28,11 @@ This isn't your fault. Your brain wiring combined with your experiences brought 
 
 #### [Panic attacks are uncomfortable, but not dangerous.](https://www.youtube.com/watch?v=8Un_Ykh9y9Q) 
 
-Agoraphobia hijacks the fight/flight response—there is no way to experience panic without believing you're in danger, by definition. That doesn't mean there actually is danger; that's just how this works. You will not panic yourself into a heart attack, psychosis, fainting, losing control of the car, etc. The feelings will appear, intensify, peak, and wash away. 
+Agoraphobia hijacks the fight/flight response-there is no way to experience panic without believing you're in danger, by definition. That doesn't mean there actually is danger; that's just how this works. You will not panic yourself into a heart attack, psychosis, fainting, losing control of the car, etc. The feelings will appear, intensify, peak, and wash away. 
 
-*No, yours are not different. I know, I know—trust me, they're not.*
+*No, yours are not different. I know, I know - trust me, they're not.*
 
-Trying to make the feelings go away makes them worse. This is **avoidance**. Stop all attempts to feel less anxious. No breathing exercises, ice water, meditation—nada. There's a time and place for  all that, but it's not while you're in the habit of **avoidance**. 
+Trying to make the feelings go away makes them worse. This is **avoidance**. Stop all attempts to feel less anxious. No breathing exercises, ice water, meditation—nada. There's a time and place for all that, but it's not while you're in the habit of **avoidance**. 
 
 Test it. See what the feelings can actually do if you don't avoid them. Puking is probably the worst of it. So what? Swish some water and change your shirt. The part of your brain that creates these feelings is deaf to thoughts; it only learns through experience. Show it there's no threat by acting as if there's no threat. Changing your behavior is the cure. The feelings will dissipate, but it'll take longer than you think, and praying for that day to come is **avoidance**. The good news is that even the worst panic attacks aren't that bad when you don't resist. This is a skill, and it takes practice. 
 
@@ -52,7 +52,7 @@ This isn't about me, but my credibility is in my experience, so I'll do a quick 
 - **Early 20s:** Became a hermit, hooked on benzos, was convinced something is physically wrong. Went to a bunch of doctors trying to find an answer. 
 - **Mid 20s:** Tried exposures, made some progress, had setbacks, another relationship ended due to anxiety. Lost faith in the process. 
 - **Late 20s:** Heartbroken and depressed, moved 500 miles from home to force recovery or die trying. Finally got a glimpse of **"not caring"**, found a new specialist that uses the ACT Methodology. 
-- **Early 30s (now):** Fully recovered, no panic attacks, completely fine.
+- **Early 30s (now):** Fully recovered, no panic attacks(sorta - I'll explain), completely fine.
 
 #### Things I Tried (That Didn't Work)
 
@@ -61,8 +61,9 @@ This isn't about me, but my credibility is in my experience, so I'll do a quick 
 - Klonopin  
 - Ativan  
 - Xanax  
+- Supplements
 - Propranolol  
-- Buddhism  
+- Meditation  
 - EMDR  
 - Multiple specialists  
 - Elimination diets  
@@ -91,7 +92,7 @@ This isn't about me, but my credibility is in my experience, so I'll do a quick 
 - Failed out of college classes (eventually finished online).  
 - Lost dream job because I couldn't cross a bridge.  
 - Panicked so badly during a traffic stop that cops thought I was on meth and I failed a field sobriety test, sober.  Also threw up on his shoe. 
-- Jumped from a moving car on the freeway in panic, called a cab home.  
+- Jumped from a moving car on the freeway in a panic and ran down the exit ramp.  
 - Ruined a relationship that *probably* would've worked out otherwise.  
 - Diagnosed with IBS (more on that later), lost weight I couldn't afford to lose.
 - Completely ended a relationship with an entire side of my family because I stopped being able to travel to visit them. 
@@ -115,7 +116,7 @@ No, I'm not a therapist. I'm not the best writer. I have no aspirations to be so
 > ***How do you know nothing's wrong when it feels like something's wrong? Food poisoning and panic attacks feel the exact same to me. Or when my throat feels like it's closing, it literally feels like it's closing. I never know what it is until way later. You expect me to just go out feeling like that? Just ignore it?*** 
 
 
-Ignore might not be the right word, but yeah. Sorta.
+Accept, not ignore. But yeah, sorta. 
 
 When you're panicking, there's no way to know with 100% certainty that what you're feeling is _just_ anxiety. Certainty doesn't exist. But you're mixing up two different things:
 
@@ -123,47 +124,45 @@ When you're panicking, there's no way to know with 100% certainty that what you'
 
 Let's start with danger.
 
-Panic attacks can mimic almost any medical condition. Chest pain, nausea, dizziness, numbness, throat closing—whatever. If you're having a new or alarming symptom, go to the doctor. Maybe even go to the ER. I've had multiple EKGs, and I don't regret any of them—even when it turned out to be nothing.
+Panic attacks can mimic almost any medical condition. Chest pain, nausea, dizziness, numbness, throat closing—whatever. If you're having a new or alarming symptom, go to the doctor. Maybe even go to the ER. I've had multiple EKGs, and I don't regret any of them - even when it turned out to be nothing.
   
 That's the right move: get checked out. Get tests done. Rule out the big stuff.
 
 Tell the doctor what's going on. If they blow you off, insist. If you're not convinced, get a second opinion. **But once you've ruled out the big stuff, you have to stop treating every symptom like it's life-threatening.**
 
-That's the trap. That's how you teach your brain to freak out at every twitch, every tight breath, every stomach gurgle. 
-
-The more inappropriate medical reassurance you seek, the worse your symptoms will get. Every time you go looking for proof that you're safe, you're training yourself to believe that you're _not_. 
+The more inappropriate medical reassurance you seek, the worse your symptoms will get. **Every time you go looking for proof that you're safe, you're training yourself to believe that you're _not_.** 
 
 Let's say you rule out the throat closing issue. You've done the allergy tests, you're not gonna go into anaphylactic shock. Your tonsils are fine. What are you supposed to do the next time you get that feeling? 
 
-Accept and allow. Ok, my throat feels like it's closing. There is no good reason this would ever happen, and you know panic can cause this.
+Accept and allow. Ok, your throat feels like it's closing. So what? Let it. There is no good reason this would ever happen, and you know panic can cause this. 
 
 #### Attention amplifies sensation.
 
-You ever done a bodyscan meditation? 
+Have you ever done a bodyscan meditation? 
 In a bodyscan, you work your way around your body, paying attention to every part, one at a time. The crown of the head, forehead, ears, eyes, nose, feeling of breathing through your nostrils, cheeks, neck, and so on. 
 
 Try this right now: Sit still and place all of your attention on your left thumb. What's the temperature? Is there a breeze hitting your thumb? Do you feel any pressure? Is it resting on your index finger? Do you feel the weight of it? Close your eyes and place your attention like a spotlight on your thumb for 10 slow breaths.
 
-When I do that, it feels cold. It almost throbs, I can feel my blood pumping through my thumb with each heartbeat. It feels swollen, like I dropped something on it a few minutes ago. 
+When I do that, it feels cold. It almost throbs, I can feel blood pumping through my thumb with each heartbeat. It feels swollen, like I dropped something on it a few minutes ago. 
 
-That would drive me up a fucking wall if I kept my attention there for long enough. You turn the knob up on the sensations the more you pay attention to them. 
+That would drive me up a fucking wall if I kept my attention there for long enough. **You turn the knob up on sensations the more you pay attention to them.** 
 
 There's nothing going on with your thumb. 
 
-When you panic over a new sensation, you're throwing rocket-fueled attention on it. One of the main functions of adrenaline is to focus our attention intensely on one thing - usually a threat - so we can respond accordingly. 
+When you panic over a new sensation, you're throwing rocket-fueled attention on it. One of the main functions of adrenaline is to focus our attention intensely on one thing - usually a threat - so we can respond quickly. 
 
-So combine the sensations caused by adrenaline, with the rocket-fueled attention on that sensation, PLUS cognitive worries over what this sensation could be, and you end up with an incredibly good illusion of a serious issue. 
+Combine the sensations caused by adrenaline with the rocket-fueled attention on that sensation, and cognitive worries over what this sensation could be, and you end up with an incredibly good illusion of a serious issue. 
 
 
 > ***So you're telling me just to get my mind off of it. How? I can't just stop thinking about it when I feel something like that.*** 
 
 [Don't picture a pink elephant.  ](https://www.psychologytoday.com/us/blog/letters-from-your-therapist/202303/the-pink-elephant-problem)
 
-No, that doesn't work. You can't remove thoughts. You can kinda replace them by deliberately paying attention to other things, this is where grounding exercises can help. A common one is to look around and name 5 things you can see, 3 things you can hear, and 2 things you can feel or something like that. That kinda works as a grounding exercise, but there's a fine line between grounding and distraction(**avoidance**). 
+No, that doesn't work. You can't remove thoughts. You can kinda replace them by deliberately paying attention to other things, this is where grounding exercises can help. A common one is to look around and name 5 things you can see, 3 things you can hear, and 2 things you can feel or something like that. There's a fine line between grounding and distraction(**avoidance**). Don't get me wrong, grounding is effective for getting out of your head and in your body. But we're talking about **avoidance** right now, we'll get to that stuff later. 
 
 The solution is to accept and allow.  To steal a mantra from Barry Mcdonagh - "I accept and allow these anxious feelings, I accept and allow these anxious thoughts". 
 
- If your throat's gonna close, let it close. You already know you don't have any medical issue that would cause that to happen. This is the adrenaline-attention-sensation spiral. This sensation in particular is so common, it has it's own name - Globus Hystericus. 
+ If your throat's gonna close, let it close. You already know you don't have any medical issue that would cause that to happen. This is the adrenaline-attention-sensation spiral(this is not a real term). This sensation in particular is so common, it has it's own name - Globus Hystericus. 
 
 > **Ok fine, that might work for things like chest pains and dizziness, but I literally throw up from anxiety sometimes. I feel sick to my stomach. I need to rush to the bathroom or I might shit myself. How could all these stomach issues just be in my head when they're physically happening?** 
 
@@ -173,15 +172,15 @@ Very good question. First of all, what's so bad about throwing up? Aim for a bag
 Something psychological being "just in your head" is a lazy misnomer. The mind and body are one system and emotions manifest physically. Anxiety is mostly a physical state. Psychogenic is the better term, which just means the origin is psychological. 
 
 
-How the adrenaline-attention-sensation spiral affecst the gut is known as [visceral hypersensitivity.](https://my.clevelandclinic.org/health/diseases/22997-visceral-hypersensitivity). 
+The adrenaline-attention-sensation spiral affects the gut extremely well. Look at [visceral hypersensitivity.](https://my.clevelandclinic.org/health/diseases/22997-visceral-hypersensitivity), for example. 
 
-In normal digestion, your intestines stretch (distention) when food is pushed along. Somtimes, the distention is big enough to trigger pain and an urge to shit, even when the rectum is empty. Think of when you're about to get in the car but sprint to the bathroom one last time in an emergency, then sit down only for nothing to come out. Then you go back out to the car and get hit with the urge again. 
+In normal digestion, your intestines stretch (distention) when food is pushed along. Sometimes, the distention is big enough to trigger pain and an urge to shit, even when the rectum is empty. Think of when you're about to get in the car but sprint to the bathroom one last time in an emergency, then sit down only for nothing to come out. Then you go back out to the car and get hit with the urge again. 
 
 People with IBS (very common diagnosis with agoraphobes) have a lower distention threshold than people without. So low in fact, that the nerves send a pain and "uh oh gotta shit now" signal to the brain, even when distention is in the normal range of normal digestion. 
 
 They figured this out by shoving balloons up peoples asses and inflating them to different degrees. People with IBS report pain at way lower inflation levels than people without it. 
 
-When you're anxious and your mind is on your gut, these nerves get hyper sensitized. Adrenaline also speeds up the food transit by increasing muscle contractions in the intestines, which can lead to diarrhea. It also pulls blood away from your core and into your limbs, which can fuck up your digestion and make you puke if your stomach is full. 
+When you're anxious and your mind is on your gut, these nerves get hyper sensitized. Adrenaline also speeds up the food transit by increasing muscle contractions in the intestines, which can lead to diarrhea. It also pulls blood away from your core and sends em to your limbs, which can fuck up your digestion and make you puke if your stomach is full. 
 
 This is all normal, safe, well understood physiology. 
 
@@ -191,11 +190,9 @@ So all the stomach issues you're plagued with are not signs that you have food p
 > But as soon as I try to go do something, I'm gonna panic and forget all of this.  
 > I can't just ignore the sensations—they're overwhelming.*** 
 
-Yeah, of course. Understanding what's happening is just the **prerequisite** to the cure, it's not the cure. Bridging the gap between *knowing* and *doing* starts with a concept called **defusion**.
+Yeah, of course. Understanding what's happening is just the **prerequisite** to the cure, it's not the cure. Bridging the gap between *knowing* and *doing* starts with **defusion**.
 
-### Defusion (In Two Senses)
-
-"Defusion" is kind of a double entendre here.
+**Defusion** is kind of a double entendre here. 
 
 In Acceptance and Commitment Therapy (ACT), **cognitive fusion** is when you're completely wrapped up in your thoughts.  
 You're *fused* with them. There's no space between *you* and *what you're thinking*.  
@@ -204,8 +201,7 @@ You can't step back or intervene.
 **Cognitive defusion** means creating some mental distance.  
 Widening your view. Stepping back. Detaching. Watching the thought instead of *being* the thought.
 
-In the [DARE response method](https://www.dareresponse.com/), **D stands for Defuse** in a different way—like defusing a bomb.  Defuse the threat by saying "ok...and?" to every fear. 
-
+The D In the [DARE response method](https://www.dareresponse.com/), stands for Defuse in a different sense-like defusing a bomb.  You defuse a threat by calling it's bluff, like this:
 
 > Your throat feels like it's closing?  
 > Nope. It just *feels* like that. That's a specific medical condition you don't have.   It feels a little tight, ok and? 
@@ -216,17 +212,15 @@ In the [DARE response method](https://www.dareresponse.com/), **D stands for Def
 > You feel like you're gonna puke?  
 > You might. So what? Puking is a safe, normal bodily process. Unpleasant? Sure. Dangerous? Nope.
 
-To get better, you need to **defuse in both senses** of the word.
 
-You create space from the thoughts and feelings by observing them, *and* you disarm the threat by calling it's bluff. 
 
-That's how you bring your rational understanding of safety *into* a moment of panic.  
+That's how you bring your rational understanding *into* a moment of panic.  
+
+
+
 
 > ***"You're just telling me to calm down in different words. How is this supposed to be helpful? The waves don't come and go. I'm in a constant state of terror & sick to my stomach until I get back home. Even when I rationally know I'm safe and it's just anxiety, the feelings are overwhelming. This would not work. "***
 
-
-
->  We think of the key, each in his prison, thinking of the key, each confirms a prison.
 
 #### Now we're onto tolerance of discomfort.  
 
@@ -234,13 +228,13 @@ That's how you bring your rational understanding of safety *into* a moment of pa
 Panic does come and go in waves, but the fear of the next wave coming can keep you in panic mode. It's like a chinese finger trap. Pull out as hard as you can, you won't get out. Push in, and the grip loosens, allowing you to easily slide your finger out. 
 
 Story time: 
-I tried to follow this approach for years and thought I was doing it right. I saw progress, I was doing more shit, but it was still kind of a nightmare. Stomach all fucked up, irritable, was completely wiped out for the rest of the day. 
+I tried to follow this approach for years and thought I was doing it right. I saw progress, I was doing more shit, but it was still kind of a nightmare. Stomach all fucked up, irritable, was completely wiped out for the rest of the day after an exposure. 
 
 My first glimpse into real acceptance happened on accident. 
 
 My girlfriend at the time dumped me, the anxiety was probably the main reason it wasn't working. I was wrecked.  I booked a flight both to get my mind off the break up and to confront the anxiety.  
 
-After take off I got hit with a level 10 mega panic attack. I couldn't catch my breath, spinning, dryheaving. There was crazy turbulence, I got this cracking sensation in my chest. After the crack, an ice cold liquid felt like it was spreading throughout my body. I was sure it was internal bleeding and I was about to die. I was still so depressed, I didn't really care. 
+After take off I got hit with a level 10 mega panic attack. I couldn't catch my breath, spinning, dryheaving. There was crazy turbulence, I got this cracking sensation in my chest. After the crack, an ice cold liquid felt like it was spreading throughout my body. I was sure it was internal bleeding and I was about to die. I was so sad about the break up, I didn't really care. 
 
 Not to say I lost my will to live or was suicidal or anything like that - but I thought fuck it, guess this is it. Oh well. 
 
@@ -248,7 +242,7 @@ The cold liquid turned warm. The panic washed away and was replaced by a sense o
 
 When I returned to baseline, I thought "*ooooohhhhhhhhh woooooooaaaah that's what acceptance is.*" 
 
-What I had been doing before was white knuckling and seeking comfort. 
+What I had been doing before was white knuckling and seeking comfort, not acceptance. 
 
 **Acceptance** has to be experienced to be understood. You have to kinda get a feel for it, but then you can't unsee it. 
 
@@ -256,9 +250,11 @@ What I had been doing before was white knuckling and seeking comfort.
 > **Ok, good for you. I've tried to accept the feelings, they don't just go away like that. My panic attacks are different. They're completely overwhelming, and sometimes can be traumatizing. I'm worried that I'll get on a plane or something and have a panic attack so bad that I have a major setback and get even more scared of going outside.** 
 
 
-We're back to the illusion of danger. Except now it's not about the physical symptoms, it's about losing your mind. It's still the same exact process. Hate to break it to you, this is still run-of-the-mill panic attacks. Which means the answer is still accept and allow. We can play whack-a-mole with every symptom and every delusion you want. 
+We're back to the illusion of danger. Except now it's not about the physical symptoms, it's about losing your mind. It's still the same exact process, still run-of-the-mill panic attacks. Hate to break it to you, but that means the answer is still accept and allow. We can play whack-a-mole with every symptom and every fear you want. I don't mind, it'll get repetitive though. 
 
-Panic attacks are not dangerous physically, or psychologically. Let's talk about the word "traumatizing" though, because you do have a point. 
+Panic attacks are not dangerous physically, or psychologically.
+
+Let's talk about the word "traumatizing" though, because you do have a point. 
 
 Trauma is a big word that's been thrown around a lot. But all trauma means is an experience so distressing that it leads to lasting changes in our thoughts, emotions, and/or behavior. 
 
@@ -268,17 +264,15 @@ Neuroplasticity is another big word thrown around, all it means is that your bra
 
 The more emotionally significant(traumatic) a situation is, the less repetitions it takes to lead to lasting change. The higher the stakes (real or perceived), the more adaption takes place. 
 
-So, when you're in a panic attack, the behavior that follows is very strongly imprinted and becomes  a lasting change. Whether that behavior is avoidance or acceptance, it'll leave a mark.
+So, when you're in a panic attack, the behavior that follows is very strongly imprinted, whether that behavior is avoidance or acceptance.
 
 This is why exposure is so effective, and all non-exposure exercises are not. Well, not on their own at least. 
 
-A setback comes from avoidance during high stakes. Growth comes from going through it. Eveything you do is habit forming. You vote for the person you'll be and the behaviors you instill with every single thing you do. This is partially why cross-culturally, religions have the idea that "God is always watching and judging, then rewarding or punishing". Divorce that concept from the control and political games many religious insitutions push, and think about it symbolically. 
+A setback comes from avoidance during high stakes. Growth comes from going through it. Everything you do is habit forming. You vote for the person you'll be and the behaviors you instill with every single thing you do. This is partially why cross-culturally, religions have the idea that "God is always watching and judging, then rewarding or punishing". Divorce that concept from the shame and control games religious institutions push, just think about it symbolically. 
 
 Your behavior matters, it's one link in an infinite chain of events. Things beget more of the same. 
 
-Ok back to pragmatic, rational land:
-
-The traumatic power of a panic attack is just because it's fertile ground for neuroplasticity.  Run away, you'll want to run more. Face it, you'll be able to face it more. 
+The traumatic power of a panic attack is due to the fact that the panic state is fertile ground for neuroplasticity.  Run away, you'll want to run more. Face it, you'll be able to face it more. 
 
 A setback is not set in stone, you can undo it with one successful bout of exposure. 
 
@@ -288,16 +282,15 @@ Example:
 I just watched [this documentary of Laird Hamilton ](https://www.youtube.com/watch?v=utCQB2SG6UA)- big wave surfer guy. He does wild shit. 
 Some waves are so big and fast, you have be towed into them by a jetski. That was his idea. 
 
-Long story short, one day Laird and the guy towing him out to a big wave got caught in a bad spot and barely survived. Watch the doc for the details, but just imagine getting ragdolled by a wave so big it's physically impossible to surf it without a jetski and being unable to get back to the surface. When you finally do surface, you've gone >100 yards from where you started. 
+Long story short, one day Laird and the guy towing him out to a big wave got caught in a bad spot and barely survived. Watch the doc for the details, but just imagine getting ragdolled by a wave so big it's physically impossible to surf it without a jetski and being unable to get back to the surface. When you finally do surface, you're 100 yards away where you went under. 
 
-They *barely* make it back to the shore, his friend gets picked up by paramedics and goes straight into emergency surgery for a leg wound, but Laird found some other guy on the beach who was willing to tow him back out to the wave he just barely survived, and went immediately back out there. PSYCHO SHIT RIGHT? 
+They *barely* made it back to the shore, his friend got picked up by paramedics and goes straight into emergency surgery for a leg wound, but Laird found some other guy on the beach who was willing to tow him back out to the wave he just barely survived, and went immediately back out there. PSYCHO SHIT RIGHT? 
 
-Laird said he knew that if he didn't go right back out there, he'd be scared of big wave surfing forever and may never be able to overcome it. He instinctually knew, that before he leaves that situation and gets out of the danger, he **needs** to get back out there to prevent this from  becoming a traumatic experience. They went back out, he caught the wave, all was good. 
+Laird said he knew that if he didn't go right back out there, he'd be scared of big wave surfing forever and may never be able to overcome it. He instinctually knew that before he leaves that situation and gets out of the danger, he **needs** to get back out there to prevent this from  becoming a traumatic experience. They went back out, he caught the wave, all was good. 
 
 Laird still surfs big waves to this day. His jet ski buddy never went near a big wave again. Jet ski guy needed emergency surgery, so it's not like he had the choice to get back out there. But there's a lesson in that. 
 
 Laird somehow knew intuitively that turning back in that moment would lead to a fear he didn't want to develop. 
-
 
 
 > **"But I can't handle all the feelings. I will run away if it gets bad enough. So I'm right in thinking that it could be harmful for me to be in a situation I'm not ready for. How am I supposed to act like this is harmless if backing out during a panic attack is harmful?"**
@@ -305,9 +298,9 @@ Laird somehow knew intuitively that turning back in that moment would lead to a 
 
 This is the reason gradual exposure tends to be more effective than flooding. 
 
-Gradual exposure works by starting low and working your way up in manageable steps. Flooding is goin fuck it yolo and chucking yourself into a situation you're genuinely not ready for. 
+Gradual exposure works by starting low and working your way up in manageable steps. Flooding is going fuck it yolo and chucking yourself into a situation you're genuinely not ready for. 
 
-If you haven't left your house in months, don't get on an international flight. You could spaz out and think "I WILL NEVER GO OUTSIDE AGAIN FUUUUCCCKKK THIS". 
+If you haven't left your house in months, don't get on an international flight. I mean you'll still be safe and perfectly fine, but you're not setting yourself up for a win here. 
 
 Gradual exposure helps you build up the confidence. You wanna set yourself up for a win. I think it's almost time to get onto what to do about all this. But first, let's make sure the foundations are set:
 
@@ -336,7 +329,7 @@ Beta Blockers: Probably fine. Especially for situational anxiety. I know a lot o
 Diet/lifestyle changes: I've just written 4500 words about not avoiding bad feelings, so this might sound contradictory - but yeah this can help a lot. Too much to say about this for this section, more on this later. 
 
 
-I think this would be a good time to talk about the program - what to actually do. But before we do that, we need to be on the same page about the mindset. 
+Now we need to get to the program - what to actually do. But before we do that, we need to be on the same page about the mindset. 
 
 Panic attacks are safe. 
 Feelings aren't the problem, avoidance is the problem. 
@@ -366,12 +359,12 @@ Add those events in
 
 
 
-This is the goal. Don't overcomplicate it, don't lose sight of it. Don't get lost in the weeds of some ambiguous "I need to beat agoraphobia" goal. This is what we're working towards. 
+This is the goal. Don't get lost in the weeds of some ambiguous "I need to beat agoraphobia" goal. This is what we're working towards. 
 
 What would it take for you to be able to live out that week? How close can you get? What seems do-able, what seems impossible? 
 
 
-Now we convert these events into themed time blocks. Maybe call em **Social**, **Active**, **Explore/Nature**
+Now we convert these events into themed time blocks. Maybe call em **Social**, **Active**, **Explore/Nature**, or whatever works for you. 
 
 
 ![Calendar showing themed timeblocks](/images/timeblock.png)
@@ -382,16 +375,28 @@ Now we convert these events into themed time blocks. Maybe call em **Social**, *
 
 Now we have a concrete goal in mind and a structure we can work with. How can you fill those time blocks with where you are now? 
 
-Maybe dinner at a restaurant seems uncomfortable, what could do you do instead to be social for a couple hours on those weeknights? This is not exposure, this is just filling our time in an enjoyable way - intentionally adding some balance back in where we can. 
+Maybe dinner at a restaurant seems uncomfortable, what could you do instead to be social for a couple hours on those weeknights? This is not exposure, this is just filling our time in an enjoyable way - intentionally adding some balance back in where we can. 
 
 Could you go to a friends house? Invite one over? Go to a cafe? Facetime someone? Get on whatever version of chatroulette exists nowadays? Whatever you can do where you are, do that. 
 
-Your active block could be a backyard work out, or a nearby gym, or a drop-in fitness class, or maybe you're fine to go straight to that class you've been wanting to try but have been hesitant to. 
+Your active block could be a backyard work out, a nearby gym, a drop-in fitness class, or maybe you're willing to go straight to that class you've been wanting to try but have been hesitant to. 
 
 Nature/Adventure block could be a walk through the neighborhood, maybe down a different path than usual. Or the same path in the opposite direction. Just introduce some novelty and get some fresh air. 
 
 
-You get the point. Fill your time & get as close as you can to your goal lifestyle while still enjoying it. Deliberate exposure comes later - just spend your time well for now. 
+You get the point. Fill your time & get as close as you can to your goal lifestyle while still enjoying it. Deliberate exposure comes later - just enjoy yourself a bit more now. 
+
+
+Here's why I think this is a good place to start: 
+
+**Your mind is on the goal, not on anxiety.** With fear ladders and exposure hierarchies, the thing you're actually doing is kind of a side note, the main focus is the level of anxiety you expect to experience there. If a level 4 exposure is dinner with a friend, the dinner itself is almost an afterthought, it's still all about feelings. 
+
+With the calendar exercise, it's the other way around. The main focus is the thing you're doing, the anxiety/limitation is a side note. 
+
+**You get quality of life improvements without needing to progress.** Spending time deliberately is just good to do, for everyone. You end up living a more balanced life and spend time doing things based on values and goals, not feelings. 
+
+
+**It changes how you make plans in an important way.** If you have nothing scheduled, you're just gonna do what you feel like doing. What else could it be? And consulting how you feel before deciding what to do is not a good habit, especially for a recovering agoraphobe. We're going for values based actions, not feelings based actions. 
 
 
 
