@@ -219,6 +219,62 @@ That's how you bring your rational understanding *into* a moment of panic.
 
 
 
+> "***Fine maybe I won't pass out when I drive, but I lose composure and drive erratically. I can't help it, I've swerved across lanes to try to exit and almost caused an accident. How am I supposed to just face that, I'm putting lives at risk***."
+
+
+Ok let's break this down - what is the actual cause of the erratic driving? It's once you make the decision to exit. It's not the panic attack, it's your fear of the panic attack causing you to seek an emergency exit right now. 
+
+This is circular logic - I think the panic attacks are dangerous **because** I drive erratically when I panic, and I drive erratically **because** I think the panic attacks are dangerous. 
+
+This changes nothing about the recovery process. 
+
+If you had full confidence in your ability to handle any sensation, you'd have no need to swerve to the next exit, would you? 
+
+So, how do we develop that confidence without putting ourselves in danger? 
+
+**Exposure to situations is specific, but exposure to feelings is universal.**
+
+These lead to growth in two different ways:
+
+1. **Situational**: You re-evaluate the safety of the situation, you see that your concerns don't actually apply to the scenario. Maybe you see that there is an accessible bathroom, an easy exit, and kind people around. You didn't become less afraid, you just re-categorized a scenario as "safe". *This won't work on the freeway.* 
+2. **Feelings**: You confront the panic attack itself - the situation doesn't matter. You see the panic attack appear, rise, peak, and fall away on its' own. Do this enough times, and there will be nothing for a scary situation to trigger. 
+
+**The fear you have is internal, you carry it with you wherever you go. The situation is irrelevant unless you think a panic attack would be unacceptable in that situation. 
+
+Your fear of unsafe driving **is** your fear of having a panic attack. Get rid of the fear of panic attacks, you also get rid of the fear of unsafe driving. 
+
+But how do we do this? 
+
+#### It's time to have a panic attack. 
+
+Hopefully, there's another scenario you can think of that will trigger a panic attack. Say a crowded mall, a football stadium, grocery store. Whatever. 
+
+Go intentionally have a panic attack. Approach the feelings with curiosity. What's actually happening in your body? Treat it like a movie you always walk out of halfway through. Go see what happens at the end. 
+
+Remember, you are not trying to get comfortable with the scenario, you're trying to see the panic attack all the way through. If the panic attack did not occur, you did not do the exposure we're after. 
+
+Go into the panic. [Put this video ](https://www.youtube.com/watch?v=3jbmqQp7YFQ&t=21s)on repeat if you need a hand seeing it through.  Do not leave the situation until you're bored. 
+
+Pay attention to how the feelings evolve as they rise and fall. Get very familiar with the process. 
+
+Stick to this like you're in a training camp getting ready for the big event. If you can, do this 7 days in a row.  
+
+Once you've built up genuine confidence in your ability to handle these feelings, then you can get back in the car for a drive. This time, you won't need to drive erratically to escape, because you **know** your body will be perfectly fine in a few short minutes. 
+
+Eventually, you'll need make a leap of faith and cross the bridge before you feel ready. If you've been able to see the panic attacks through, **there is no difference** on the freeway. 
+
+
+Story time:
+There's a bridge in my hometown that made me lose that job I wrote about in the beginning, and is the reason I skipped Thanksgiving & Christmas for ~5 years. It's the San Mateo bridge, look it up. One of the longest in the country. 
+
+A specialist I worked with at the time helped me develop the confidence in my ability to handle panic attacks, but I was still terrified to cross the bridge. I told him I didn't think it was safe to try to cross - the lanes are too narrow, one slip up could be a problem. 
+
+He said "I'm not gonna reassure you on this. You know what to do. You are safe."
+
+The answer annoyed me, but he was right. That Saturday, I drove over the bridge. 3 failed attempts, **then 4 successful crosses.**  The first felt sketchy, I seemed to have a hard time staying in my lane. The 4th was boring. I never had an issue crossing that bridge again. 
+
+
+
 
 > ***"You're just telling me to calm down in different words. How is this supposed to be helpful? The waves don't come and go. I'm in a constant state of terror & sick to my stomach until I get back home. Even when I rationally know I'm safe and it's just anxiety, the feelings are overwhelming. This would not work. "***
 
@@ -323,7 +379,7 @@ Supplements: whatever, go for it. I like L-theanine, magnesium, and cbd before b
 
 SSRIs: idk man, I've heard some amazing things from some people. I know one person who had crippling anxiety that just completely washed away when she got on an SSRI. But she didn't have agoraphobia, she had Generalized Anxiety Disorder. That's not the topic of this write up and isn't something I have experience with. 
 
-Benzos: I'm a little hesitant to say what I wanna say on this topic. But whatever, this is my website. Benzos are da devil Bobby Bouchet. They kill your ability to be chill on your own. Getting off these was **brutal**. I mean, my use was excessive. Daily for a few years, almost daily for like 7 years total. They made me worse. They make everyone worse long term. The research on this is not controversial. I know it's a lot harder to get these now than it used to be. I think they're considered safe for like 2 weeks of use. Past that, it's known to cause a bunch of issues. Idk, talk to your doc and do your own research on this. But if a doc wants to give you benzos for panic disorder, go somewhere else. Be very, very careful with these. 
+Benzos: I'm a little hesitant to say what I wanna say on this topic. But whatever, this is my website. They kill your ability to be chill on your own. Getting off these was **brutal**. I mean, my use was excessive. Daily for a few years, almost daily for like 7 years total. They made me worse. They make everyone worse long term. The research on this is not controversial. I know it's a lot harder to get these now than it used to be. I think they're considered safe for like 2 weeks of use. Past that, it's known to cause a bunch of issues. Idk, talk to your doc and do your own research on this. But if a doc wants to give you benzos for panic disorder, go somewhere else. Be very, very careful with these. 
 
 Beta Blockers: Probably fine. Especially for situational anxiety. I know a lot of people use these before performances or flights or whatever. They just limit the impact of adrenaline. Like supplements, not an issue in itself, but we're trying to move away from **avoidance**. 
 
@@ -655,105 +711,3 @@ This is important, because the next section will be about lowering your baseline
 Go buy yourself a steak dinner or something. You've done incredible work to get here. The resilience you've shown deserves recognition. I hope you don't think of yourself as a coward anymore(if you ever did, I mean) - replace that shame with pride. 
 
 Everything from here on out is just gravy. 
-
-
-
-# Part 2: Feeling Good. 
-
-This is the fun part. You don't have to do thing you don't wanna do anymore. No need for deliberate exposures anymore. Now we just work on well-being and building a nice life. We're working towards **elite emotional fitness** (I don't like this term, but it's the best I can come up with for now.) 
-
-Why even include this part? I'm already closing in on 10k words, and this seems like a different topic.
-
-There is a lot of room for growth above the line that would be considered **disordered**. The traits you've developed in the process of recovery can pay off extremely well when applied to other areas of life, so we're gonna take advantage of that. 
-
-Most importantly, there is so much we can do to improve how we feel and improve our day to day lived experience. We couldn't really focus on this bit while **avoidance** was still a factor. But now we can. 
-
-
-### **Reducing Anxiety**
-
-Routine is extremely calming. You don't wanna be too rigid with this, you have to be ok if this gets interrupted - but do not underestimate the mood stabilizing power of a solid circadian rhythm. 
-
-Stick to the schedule you made in the last section. Get up at the same time, eat at the same time, sweat at the same time. Fill your schedule with predictable time blocks that engage different systems. Focus, sweat, putter, relax, create, socialize, rest. The calm life is one where each of those systems has its time and place. 
-
-Get tired everyday, physically and mentally. Really apply yourself - this isn't about productivity - this is about having a nice day. And a nice day includes times of effort in different dimensions, getting useful work done, and luxuriating in the earned rest that comes after. 
-
-
-**Decisions, decisions.**
-
-> Anxiety is the dizziness of freedom
-
-The more time you spend hemming and hawing over a decision, the more anxious you will be. This makes us irritable, reactive, and gives way to rumination. 
-
-This is one of the reasons having a fully scheduled week is so calming. You don't want to have to decide what to do with every moment of your day. 
-
-Don't dabble in dilemmas. Almost every decision is reversible, and the long-term consequences of [irreversible decisions are unpredictable](https://www.youtube.com/watch?v=sWd6fNVZ20o&pp=ygUQYWxhbiB3YXR0cyBtYXliZdIHCQl-CQGHKiGM7w%3D%3D). Never perseverate over a pros & cons list before deciding what to do. 
-
-If it's a reversible decision, just go with your gut and don't overthink it. Who cares what you have for dinner? Just pick something. 
-
-If it's irreversible or high stakes, sleep on it for a few days. Let your subconscious mind work it out for you. I mean, do your due diligence, but once you have enough information to make a decision, let it go and let the answer come to you. 
-
-
-**Dealing with uncertainty**
-
-*Disclaimer: I would like to avoid discussions of Faith in this, because I don't want to alienate anyone and I know these can be emotionally charged subjects that carry a lot of baggage. My personal belief is that all wisdom traditions have some great mental frameworks for reducing anxiety, and in some cases, the best way to describe the mental framework is to use religious language. Please take this symbolically or metaphorically, do not miss the wisdom because it's attached to an institution.  
-
-
-I saw a video of a man in the middle east whose house was reduced to rubble. He was standing in the rubble pile looking to see if any of his possessions survived. A man walked up to him to interview him. This is based on memory and subtitles, but the point stands:
-
-> Interviewer: Sir, is this your apartment?
-> 
-> Man: Hello brother, yes this is. Mashallah, we are all safe. My wife, my daughter, we are all ok. Ah I'm so happy we're safe. 
-> 
-> Interviewer: But..your apartment is gone, where will you go? 
-> 
-> Man: Yes it is, but we're okay, we will find something, Inshallah. 
-> 
-> Interviwer: Do you have anything? Any clothes? Food? Water? 
-> 
-> Man: We will find it brother, thank you, thank you. 
-
-
-Mashallah is an Arabic term used in the Muslim world to say "God has willed it". 
-
-Inshallah is the same for god-willing. 
-
-Think about what these words mean to the man who used them. Mashallah and Inshallah are essentially the past and future tense of a term that denotes complete acceptance of whatever happens outside of our control. Say what you want about Theism and Religious fundamentalism, but that is a beautiful, deep concept. 
-
-This man reaffirms his acceptance of reality and his optimism in each sentence. If I can find the video, I may link it. What struck me in this video was the sense of peace this man seemed to have. Big smile on his face during the interview, gratitude pouring out of him as he stumbles through the rubble of everything he owns. 
-
-How can those of us in the secular world learn from this? What wouId the inner monologue of radical acceptance sound like? 
-
-I think the Alan Watts video I linked earlier here is a great place to start. It's a fantastic symbolic story of the unpredictability of life. How can we judge something as good or bad until we see it's final consequence? We really can't. That doesn't require a leap of faith - that's truly rational radical acceptance based on the fact that things unfold in unpredictable ways. 
-
-I have benefited quite a bit from reading wisdom traditions. I will not make any specific recommendations here, at least not just yet. But I would urge you to explore these things. 
-
-We must have humility about our understanding of reality. Our perception is not a perfect reconstruction of the world as it exists. It really is all up for interpretation. 
-
-Now, certainly there are some facts about the universe we can know, I'm not saying reject science. But I would argue that an adaptive mental framework is more important than a factually accurate mental framework.
-
-I do not believe things unfold as they *should*. Things just happen, in my view. BUT, when faced with uncertainty around how my life is unfolding - especially when that starts to turn into pessimism, I pretend that I think things unfold as they should. It is an effective bulwark against rumination in times of uncertainty. 
-
-
-My recommendation here is that you explore some wisdom traditions, see if you can find a mental framework that helps you accept the way things are. 
-
-
-
-**Using intuition**
-
-You can sidestep a lot of my recommendations above if you just commit to listening to your gut. This is hard to explain without leaning on mythology, but I'll try to give you a pragmatic way to access this. 
-
-Think of something you're worried about, or something that's been on your mind for a while. This could be as broad as "what should I do to improve my life?", or as specific as "What should I do this afternoon?". 
-
-Sit down somewhere quiet, and ask yourself that question. You may be surprised to get an immediate answer. I don't know where this answer comes from - it's some part of the mind that's able to communicate with my conscious self - but its' reasoning mechanism is not something I'm aware of. I ask a question I don't think I have an answer to, and I always get a response. The experience of it really feels like the asker and the answer-er are two different entities in my mind. 
-
-Even as I write this, I don't really know where these words are coming from. I'm just sitting at my computer with my attention loosely on the topic of anxiety, and 10k words have appeared. 
-
-There's something in us that can pull information out from the depths of our minds without us having to work too hard at it. Overthinking just gets in the way. 
-
-I think decision making is a creative act, when done well. Just like artists talk about invoking the muse to create something - you can invoke the muse to make your decisions. 
-
-
-
-
-
-
