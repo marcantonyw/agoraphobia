@@ -30,7 +30,8 @@ This isn't your fault. Your brain wiring combined with your experiences brought 
 
 Agoraphobia hijacks the fight/flight response-there is no way to experience panic without believing you're in danger, by definition. That doesn't mean there actually is danger; that's just how this works. You will not panic yourself into a heart attack, psychosis, fainting, losing control of the car, etc. The feelings will appear, intensify, peak, and wash away. 
 
-*No, yours are not different. I know, I know - trust me, they're not.*
+[*No, yours are not different. I know, I know - trust me, they're not.*](https://youtu.be/FbT2ao26VNQ?si=NDiEssLvETpO29l_)
+
 
 Trying to make the feelings go away makes them worse. This is **avoidance**. Stop all attempts to feel less anxious. No breathing exercises, ice water, meditation—nada. There's a time and place for all that, but it's not while you're in the habit of **avoidance**. 
 
