@@ -67,6 +67,29 @@ import StickyToc from '../components/StickyToc.astro';
   color: #666;
   margin-top: 1rem;
 }
+
+.hero-section .social-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  background-color: #FF0000;
+  color: white;
+  text-decoration: none;
+  border-radius: 20px;
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  transition: background-color 0.2s;
+}
+
+.hero-section .social-link:hover {
+  background-color: #CC0000;
+}
+
+.hero-section .social-link svg {
+  width: 14px;
+  height: 14px;
+}
       
       /* Article styling for markdown content */
       article.content h1,
@@ -201,6 +224,12 @@ import StickyToc from '../components/StickyToc.astro';
         <h1>Agoraphobia Recovery</h1>
         <p>A laymen's guide</p>
         <p class="email">Marc - marcantonyw@gmail.com</p>
+        <a href="https://www.youtube.com/@Marcantonyw" class="social-link" target="_blank">
+          <svg viewBox="0 0 24 24" fill="currentColor">
+            <path d="M10 15l5.19-3L10 9v6m11.56-7.83c.13.47.22 1.1.28 1.9.07.8.1 1.49.1 2.09L22 12c0 2.19-.16 3.8-.44 4.83-.25.9-.83 1.48-1.73 1.73-.47.13-1.33.22-2.65.28-1.3.07-2.49.1-3.59.1L12 19c-4.19 0-6.8-.16-7.83-.44-.9-.25-1.48-.83-1.73-1.73-.13-.47-.22-1.1-.28-1.9-.07-.8-.1-1.49-.1-2.09L2 12c0-2.19.16-3.8.44-4.83.25-.9.83-1.48 1.73-1.73.47-.13 1.33-.22 2.65-.28 1.3-.07 2.49-.1 3.59-.1L12 5c4.19 0 6.8.16 7.83.44.9.25 1.48.83 1.73 1.73z"/>
+          </svg>
+          YouTube
+        </a>
       </div>
       
       <!-- Make sure content class is applied -->
